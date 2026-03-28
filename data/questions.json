@@ -1,0 +1,233 @@
+{
+  "Matemáticas": {
+    "Simetría axial": [
+      {
+        "pregunta": "Cuantos ejes de simetría tiene un cuadrado",
+        "opciones": ["2", "3", "4", "8"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Un cuadrado tiene cuatro ejes de simetría, dos diagonales y dos que pasan por los puntos medios de sus lados opuestos.",
+        "pista": "Piensa en cuantas formas puedes doblar un cuadrado para que sus mitades coincidan perfectamente.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Si el punto de coordenadas (3, 4) se refleja con respecto al eje x, cuales son las coordenadas de su punto homologo",
+        "opciones": ["(-3, 4)", "(3, -4)", "(-3, -4)", "(4, 3)"],
+        "respuestaCorrecta": 1,
+        "explicacion": "En una reflexión sobre el eje x, la coordenada x se mantiene igual y la coordenada y cambia de signo.",
+        "pista": "La distancia del punto al eje x debe ser la misma pero en la direccion opuesta.",
+        "imagen": null,
+        "grafico": { "tipo": "punto", "x": 3, "y": -4 }
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría posee un triangulo isosceles que no es equilatero",
+        "opciones": ["0", "1", "2", "3"],
+        "respuestaCorrecta": 1,
+        "explicacion": "Un triangulo isosceles tiene un unico eje de simetría que pasa por el vertice donde se unen los lados iguales y el punto medio del lado opuesto.",
+        "pista": "Identifica el unico pliegue que divide al triangulo en dos mitades identicas.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Cual es el punto homologo de (-2, 5) al aplicarle una simetría axial con respecto al eje y",
+        "opciones": ["(-2, -5)", "(2, -5)", "(2, 5)", "(5, -2)"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Al reflejar un punto sobre el eje y, su coordenada y se mantiene constante y su coordenada x cambia de signo.",
+        "pista": "Mueve el punto horizontalmente hacia el otro lado del eje vertical.",
+        "imagen": null,
+        "grafico": { "tipo": "punto", "x": 2, "y": 5 }
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría tiene un hexagono regular",
+        "opciones": ["3", "4", "6", "12"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Un hexagono regular tiene seis ejes de simetría, tres que pasan por los vertices opuestos y tres por los puntos medios de los lados opuestos.",
+        "pista": "El numero de ejes de simetría de un polígono regular es igual a su numero de lados.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Cual es la ecuacion del eje de simetría que hace que el punto (0, 0) sea homologo con el punto (4, 0)",
+        "opciones": ["y = 2", "x = 2", "y = x", "x = 4"],
+        "respuestaCorrecta": 1,
+        "explicacion": "El eje de simetría es la mediatriz del segmento que une los dos puntos, la cual es una recta vertical que pasa por x = 2.",
+        "pista": "Busca el punto medio horizontal entre ambas coordenadas.",
+        "imagen": null,
+        "grafico": { "tipo": "funcion", "ecuacion": "x=2" }
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría tiene un rombo que no es cuadrado",
+        "opciones": ["0", "1", "2", "4"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Un rombo tiene dos ejes de simetría que corresponden exactamente a sus dos diagonales.",
+        "pista": "Dobla la figura uniendo sus vertices opuestos.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Si el eje de simetría de una figura es la recta x = 5 y un punto de la figura esta en las coordenadas (5, 2), cual es su punto homologo",
+        "opciones": ["(0, 2)", "(10, 2)", "(5, -2)", "(5, 2)"],
+        "respuestaCorrecta": 3,
+        "explicacion": "Cualquier punto que se encuentre exactamente sobre el eje de simetría es homologo a si mismo.",
+        "pista": "Si estas parado justo en el espejo, tu reflejo esta en el mismo lugar.",
+        "imagen": null,
+        "grafico": { "tipo": "punto", "x": 5, "y": 2 }
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría posee un rectangulo que no es cuadrado",
+        "opciones": ["1", "2", "3", "4"],
+        "respuestaCorrecta": 1,
+        "explicacion": "El rectangulo tiene dos ejes de simetría que pasan por los puntos medios de sus lados opuestos. Sus diagonales no son ejes de simetría.",
+        "pista": "Piensa si al doblar el rectangulo por las diagonales las esquinas coinciden o no.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría tiene un trapecio isosceles",
+        "opciones": ["0", "1", "2", "4"],
+        "respuestaCorrecta": 1,
+        "explicacion": "El trapecio isosceles tiene un unico eje de simetría que pasa por los puntos medios de sus bases paralelas.",
+        "pista": "Solo hay una forma de cortarlo por la mitad para que ambos lados coincidan.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Cual es el punto homologo de (2, 7) al aplicar una simetría axial sobre la recta y = x",
+        "opciones": ["(-2, -7)", "(-7, -2)", "(7, 2)", "(2, -7)"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Al reflejar un punto sobre la recta y = x, se intercambian sus coordenadas x e y.",
+        "pista": "Invierte la posicion de las dos coordenadas del punto original.",
+        "imagen": null,
+        "grafico": { "tipo": "punto", "x": 7, "y": 2 }
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría tiene una cometa geometrica o deltoide",
+        "opciones": ["0", "1", "2", "4"],
+        "respuestaCorrecta": 1,
+        "explicacion": "Una cometa geometrica tiene un solo eje de simetría que pasa por su diagonal principal, uniendo los vertices donde concurren los lados iguales.",
+        "pista": "Es similar a la forma tradicional de un papalote.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Si el punto (3, 2) se refleja con respecto a la recta x = 1, cual es su punto homologo",
+        "opciones": ["(-1, 2)", "(0, 2)", "(5, 2)", "(-3, 2)"],
+        "respuestaCorrecta": 0,
+        "explicacion": "La distancia del punto original a la recta x = 1 es de 2 unidades hacia la derecha. El punto homologo estara 2 unidades hacia la izquierda de x = 1, es decir en x = -1.",
+        "pista": "Resta la distancia al eje para encontrar la nueva posicion horizontal.",
+        "imagen": null,
+        "grafico": { "tipo": "punto", "x": -1, "y": 2 }
+      },
+      {
+        "pregunta": "Al aplicar una simetría axial sobre la recta y = -2, cual es el punto homologo de (4, 1)",
+        "opciones": ["(4, -3)", "(4, -5)", "(4, -1)", "(-8, 1)"],
+        "respuestaCorrecta": 1,
+        "explicacion": "El punto (4, 1) esta a 3 unidades de distancia vertical por encima de la recta y = -2. Su homologo estara a 3 unidades por debajo, es decir en y = -5.",
+        "pista": "Cuenta las unidades desde la coordenada vertical original hasta la recta de simetría.",
+        "imagen": null,
+        "grafico": { "tipo": "punto", "x": 4, "y": -5 }
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría tiene un triangulo equilatero",
+        "opciones": ["1", "2", "3", "6"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Un triangulo equilatero tiene tres ejes de simetría, uno desde cada vertice hasta el punto medio de su lado opuesto.",
+        "pista": "Todos sus lados y angulos son iguales, lo que permite doblarlo desde cualquiera de sus puntas.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Cual es el punto homologo de (-5, -8) si el eje de simetría es el eje de las abscisas",
+        "opciones": ["(5, -8)", "(5, 8)", "(-8, -5)", "(-5, 8)"],
+        "respuestaCorrecta": 3,
+        "explicacion": "El eje de las abscisas es el eje x. Al reflejar sobre el eje x, la coordenada x queda igual y la y cambia su signo.",
+        "pista": "La altura del punto cambia de negativo a positivo.",
+        "imagen": null,
+        "grafico": { "tipo": "punto", "x": -5, "y": 8 }
+      },
+      {
+        "pregunta": "Que ecuacion define al eje de simetría que relaciona al punto (3, 5) con el punto (3, -1)",
+        "opciones": ["x = 3", "y = 2", "y = 3", "x = 2"],
+        "respuestaCorrecta": 1,
+        "explicacion": "Como la coordenada x no cambia, la reflexion es horizontal. El eje pasa por el punto medio de las coordenadas y, que es (5 + -1)/2 = 2. Por tanto la recta es y = 2.",
+        "pista": "Encuentra el punto medio entre las alturas de ambos puntos.",
+        "imagen": null,
+        "grafico": { "tipo": "funcion", "ecuacion": "2" }
+      },
+      {
+        "pregunta": "Si el punto original es (0, 6) y se realiza una simetría con respecto al eje y, cual es el punto resultante",
+        "opciones": ["(6, 0)", "(0, -6)", "(0, 6)", "(-6, 0)"],
+        "respuestaCorrecta": 2,
+        "explicacion": "El punto (0, 6) ya se encuentra posicionado sobre el eje y, por lo tanto su punto homologo es el mismo.",
+        "pista": "Todo punto ubicado en el eje de simetría permanece inmovil al reflejarse.",
+        "imagen": null,
+        "grafico": { "tipo": "punto", "x": 0, "y": 6 }
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría tiene un trapecio escaleno",
+        "opciones": ["0", "1", "2", "4"],
+        "respuestaCorrecta": 0,
+        "explicacion": "Un trapecio escaleno no tiene lados laterales iguales, por lo que no es posible trazar una linea que divida la figura en dos mitades simetricas.",
+        "pista": "Ninguno de sus lados ni angulos no paralelos son iguales.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría tiene una estrella regular de cinco puntas",
+        "opciones": ["1", "5", "10", "Infinitos"],
+        "respuestaCorrecta": 1,
+        "explicacion": "La estrella regular de cinco puntas tiene cinco ejes de simetría, trazados desde cada punta de la estrella hasta el vertice interno opuesto.",
+        "pista": "Cuenta las puntas de la figura para determinar los pliegues perfectos.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Cual es el punto homologo de (3, 4) si el eje de reflexion es la recta y = -x",
+        "opciones": ["(4, 3)", "(-3, -4)", "(-4, -3)", "(-4, 3)"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Al reflejar un punto sobre la recta y = -x, las coordenadas se intercambian y ademas ambas cambian de signo.",
+        "pista": "Intercambia los valores y colocalos en negativo.",
+        "imagen": null,
+        "grafico": { "tipo": "punto", "x": -4, "y": -3 }
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría tiene un paralelogramo comun que no es ni rectangulo ni rombo",
+        "opciones": ["0", "1", "2", "4"],
+        "respuestaCorrecta": 0,
+        "explicacion": "Un paralelogramo comun tiene simetría central pero no tiene simetría axial. Si lo doblas por la mitad en cualquier direccion, los bordes no coinciden.",
+        "pista": "Imagina empujar sus lados diagonalmente.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Cual es la ecuacion de la recta de simetría que relaciona al punto (1, 5) con su homologo (1, -1)",
+        "opciones": ["x = 1", "y = 2", "y = 3", "y = 4"],
+        "respuestaCorrecta": 1,
+        "explicacion": "Los puntos tienen la misma coordenada x. La recta que los divide exactamente a la mitad pasa por el promedio de las coordenadas y, que es 2.",
+        "pista": "Busca que altura esta a la misma distancia del 5 y del -1.",
+        "imagen": null,
+        "grafico": { "tipo": "funcion", "ecuacion": "y=2" }
+      },
+      {
+        "pregunta": "Cuantos ejes de simetría posee un pentagono regular",
+        "opciones": ["1", "3", "5", "10"],
+        "respuestaCorrecta": 2,
+        "explicacion": "Al ser un polígono regular de 5 lados, posee 5 ejes de simetría que van desde cada vertice hasta el punto medio del lado opuesto.",
+        "pista": "Piensa en la relacion entre la cantidad de lados de un polígono regular y sus ejes.",
+        "imagen": null,
+        "grafico": null
+      },
+      {
+        "pregunta": "Que propiedad fundamental se conserva siempre entre un punto y su punto homologo respecto a un eje de simetría",
+        "opciones": ["Su coordenada en el eje x", "Su coordenada en el eje y", "La distancia ortogonal hacia el eje de simetría", "La distancia hacia el origen de coordenadas"],
+        "respuestaCorrecta": 2,
+        "explicacion": "En toda simetría axial, un punto y su imagen siempre se encontraran a la misma distancia perpendicular con respecto a la linea del eje de simetría.",
+        "pista": "Piensa en como se posiciona el reflejo de un objeto frente a un espejo plano.",
+        "imagen": null,
+        "grafico": null
+      }
+
+      
+    ]
+  }
+}

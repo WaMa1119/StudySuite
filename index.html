@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudySuite</title>
+    <link rel="shortcut icon" href="assets/img/SmallLogo.svg" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body class="home-body">
+    <div class="container main-card">
+        <img src="assets/img/Logo.svg" alt="Logo" width="300px">
+        <h3>Bienvenido a <strong>StudySuite</strong></h3>
+        <p class="subtitle">Aprende jugando, mejora practicando</p>
+        
+        <div class="subject-selection">
+            <h3 class="section-label">Elige tu materia:</h3>
+            <div id="subject-list" class="subject-grid">
+                </div>
+        </div>
+
+        <div class="footer-msg">
+            <p style="font-size: small; margin-top: 50px;">Producido por WM Produciones</p>
+        </div>
+    </div>
+
+    <script>
+        fetch('data/questions.json')
+            .then(res => res.json())
+            .then(data => {
+                const list = document.getElementById('subject-list');
+                Object.keys(data).forEach(materia => {
+                    const btn = document.createElement('button');
+                    btn.className = 'btn-subject';
+                    btn.innerText = materia;
+                    btn.onclick = () => window.location.href = `quiz.html?materia=${encodeURIComponent(materia)}`;
+                    list.appendChild(btn);
+                });
+            });
+    </script>
+</body>
+</html>
