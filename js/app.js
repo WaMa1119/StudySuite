@@ -30,7 +30,7 @@ function prepareQuiz(temasObj) {
         // Mix questions by topic
         preguntas.sort(() => Math.random() - 0.5);
         // Pick no more then 15 questions by topic
-        allSelected = allSelected.concat(preguntas.slice(0, 8));
+        allSelected = allSelected.concat(preguntas.slice(0, 3));
     });
 
     // Mix all
@@ -154,9 +154,9 @@ function showResults() {
     document.getElementById('res-bad').innerText = quizData.length - corrects;
 
     const msg = document.getElementById('res-msg');
-    if(percent >= 90) msg.innerText = "¡Eres increíble! ¡Te amo, genia! 💖";
-    else if(percent >= 70) msg.innerText = "¡Vas súper bien! Sigue así mi cielo. ✨";
-    else msg.innerText = "¡No te desanimes! A repasar un poquito más. 💪";
+    if(percent >= 90) msg.innerText = "¡Eres increíble!";
+    else if(percent >= 70) msg.innerText = "¡Vas súper bien!";
+    else msg.innerText = "¡No te desanimes! A repasar un poquito más.";
 }
 function drawSimpleGraph(canvas, config) {
     const ctx = canvas.getContext('2d');
@@ -246,7 +246,7 @@ if (config.tipo === "funcion") {
     ctx.lineWidth = 3;
     ctx.beginPath();
 
-    // Detect vertical line like "x=2"
+    // Detect vertical line 
     if (config.ecuacion.startsWith("x=")) {
         const val = parseFloat(config.ecuacion.split("=")[1]);
         const cx = centerX + val * scale;
@@ -257,7 +257,7 @@ if (config.tipo === "funcion") {
         return;
     }
 
-    // Detect horizontal line like "y=2"
+    // Detect horizontal line 
     if (config.ecuacion.startsWith("y=") && !config.ecuacion.includes("x")) {
         const val = parseFloat(config.ecuacion.split("=")[1]);
         const cy = centerY - val * scale;
@@ -268,7 +268,7 @@ if (config.tipo === "funcion") {
         return;
     }
 
-    // Normal function like y=x , y=-x , y=x*2
+    // Normal function 
     let expr = config.ecuacion.replace("y=", "");
 
     for (let x = -10; x <= 10; x += 0.1) {

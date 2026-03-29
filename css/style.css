@@ -29,7 +29,10 @@ body {
     box-shadow: 0 10px 25px rgba(0,0,0,0.05);
     border: 3px solid #f0f0f0;
 }
-
+img{
+    max-width: 300px;
+    max-height: 300px   ;
+  }
 /* Header UI */
 .top-nav { 
     display: flex; 
@@ -247,4 +250,18 @@ body {
     box-shadow: 0 10px 25px rgba(0,0,0,0.05);
     border: 3px solid #f0f0f0;
 }
+  body{
+    background-image: url(/assets/img/Backgroundmobile.png);
+    background-size: 100vh;
+    background-repeat: no-repeat;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  img{
+    max-width: 300px;
+    max-height: 300px   ;
+  }
 }
