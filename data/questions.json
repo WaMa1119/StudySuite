@@ -101,5 +101,2670 @@
         "grafico": null
       }
     ]
+},
+
+
+
+
+  "Español": {
+"Formas de tratamiento y registros de habla": [
+{
+"pregunta": "Lea la siguiente oración: 'Vení aquí y decime la verdad'. ¿Qué forma de tratamiento se utiliza?",
+"opciones": ["Tuteo", "Voseo", "Ustedeo", "Seseo"],
+"respuestaCorrecta": 1,
+"explicacion": "El uso de formas verbales terminadas en acento en la última sílaba como 'vení' y 'decime' es característico del voseo.",
+"pista": "Observe la acentuación de los verbos imperativos.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique la oración que emplea el tuteo de forma exclusiva.",
+"opciones": ["Usted es muy amable.", "Tú tienes la llave del éxito.", "Vos sabés lo que pasó.", "Venga conmigo, por favor."],
+"respuestaCorrecta": 1,
+"explicacion": "El pronombre 'tú' y la conjugación 'tienes' corresponden al tuteo estándar.",
+"pista": "Busque el pronombre de segunda persona informal no usado típicamente en Costa Rica.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el siguiente texto: 'Disculpe, señor, ¿podría decirme la hora?'. ¿Qué forma de tratamiento predomina?",
+"opciones": ["Tuteo", "Voseo", "Ustedeo", "Amiguismo"],
+"respuestaCorrecta": 2,
+"explicacion": "El uso de 'Disculpe' y 'señor' denota una distancia formal propia del ustedeo.",
+"pista": "Es la forma más formal de dirigirse a alguien.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "En un diálogo donde se dice: '¡Ey, mae! ¿Qué me dice?', ¿qué registro de habla se evidencia?",
+"opciones": ["Culto", "Técnico", "Coloquial", "Literario"],
+"respuestaCorrecta": 2,
+"explicacion": "El uso de jerga local como 'mae' y expresiones informales define el registro coloquial.",
+"pista": "Es el lenguaje que usamos con amigos cercanos.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Un artículo médico sobre la regeneración celular utiliza términos como 'mitosis' y 'homeostasis'. ¿A qué registro pertenece?",
+"opciones": ["Coloquial", "Técnico", "Literario", "Popular"],
+"respuestaCorrecta": 1,
+"explicacion": "El uso de terminología especializada de una ciencia o profesión indica un registro técnico.",
+"pista": "Se asocia con una profesión o ciencia específica.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'La dulce brisa acariciaba su mejilla mientras el sol se ocultaba'. El registro es:",
+"opciones": ["Culto", "Coloquial", "Literario", "Técnico"],
+"respuestaCorrecta": 2,
+"explicacion": "La intención estética y el uso de figuras retóricas son propios del registro literario.",
+"pista": "Busque el embellecimiento del lenguaje.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Cuál es una característica del registro oral espontáneo?",
+"opciones": ["Uso estricto de la gramática.", "Planificación previa del mensaje.", "Presencia de muletillas e interrupciones.", "Vocabulario sumamente especializado."],
+"respuestaCorrecta": 2,
+"explicacion": "La oralidad espontánea permite errores, repeticiones y muletillas por su falta de planificación.",
+"pista": "Piense en cómo hablamos cuando no estamos preparados.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique la oración con voseo correcto:",
+"opciones": ["Vos eres mi amigo.", "Vos sos mi amigo.", "Vos es mi amigo.", "Tú sos mi amigo."],
+"respuestaCorrecta": 1,
+"explicacion": "La forma verbal 'sos' es la conjugación correcta para el pronombre 'vos' en presente.",
+"pista": "El verbo ser se transforma en esta forma.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "El registro culto se caracteriza principalmente por:",
+"opciones": ["El uso de palabras vulgares.", "La improvisación constante.", "La precisión léxica y corrección gramatical.", "El uso excesivo de diminutivos."],
+"respuestaCorrecta": 2,
+"explicacion": "El registro culto busca la máxima corrección y el uso de un vocabulario amplio y preciso.",
+"pista": "Es el nivel más elevado del lenguaje estándar.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "En la frase 'Mañana te traigo el libro', si se cambia a voseo imperativo sería:",
+"opciones": ["Traeme el libro.", "Tráeme el libro.", "Tráigame el libro.", "Traéme el libro."],
+"respuestaCorrecta": 3,
+"explicacion": "En el voseo costarricense, el imperativo lleva tilde en la vocal temática: traé + me = traéme.",
+"pista": "El acento cae en la penúltima sílaba en este caso por la posición de la tilde original.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: '¡Oiga! ¡Tenga cuidado con ese perro!'. Se emplea el tratamiento de:",
+"opciones": ["Voseo", "Ustedeo", "Tuteo", "Personal"],
+"respuestaCorrecta": 1,
+"explicacion": "Los imperativos 'Oiga' y 'Tenga' corresponden a la tercera persona usada para usted.",
+"pista": "Indica respeto o distancia.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué registro predomina en una conferencia sobre física cuántica?",
+"opciones": ["Científico-Técnico", "Coloquial", "Familiar", "Literario"],
+"respuestaCorrecta": 0,
+"explicacion": "Las conferencias académicas sobre ciencias duras requieren un registro técnico especializado.",
+"pista": "Relacionado con la ciencia.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "En Costa Rica, el voseo es considerado un rasgo:",
+"opciones": ["Incorrecto", "Dialectal de identidad", "Solo de zonas rurales", "Extranjero"],
+"respuestaCorrecta": 1,
+"explicacion": "El voseo es una forma de tratamiento legítima y parte esencial de la identidad lingüística costarricense.",
+"pista": "Es parte de nuestra cultura.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique el error de tratamiento en: 'Usted, Juan, decime qué piensas'.",
+"opciones": ["Mezcla de ustedeo, voseo y tuteo.", "Uso excesivo de comas.", "Falta de tildes.", "No hay error."],
+"respuestaCorrecta": 0,
+"explicacion": "'Usted' (ustedeo), 'decime' (voseo) y 'piensas' (tuteo) rompen la unidad de tratamiento.",
+"pista": "Hay tres formas mezcladas en una sola frase.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La expresión 'En un dos por tres' es típica del registro:",
+"opciones": ["Culto", "Técnico", "Coloquial", "Escrito formal"],
+"respuestaCorrecta": 2,
+"explicacion": "Las frases hechas y modismos son marcas del habla coloquial.",
+"pista": "Es un modismo común.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La diferencia entre registro oral y escrito radica principalmente en:",
+"opciones": ["El color de las letras.", "La permanencia y la planificación.", "El número de personas que escuchan.", "La velocidad del aire."],
+"respuestaCorrecta": 1,
+"explicacion": "El escrito es permanente y planeado; el oral suele ser efímero y espontáneo.",
+"pista": "Uno queda grabado en papel, el otro en el aire.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Estimados accionistas, se les convoca a la sesión extraordinaria'. El registro es:",
+"opciones": ["Coloquial", "Literario", "Culto-Formal", "Técnico-Médico"],
+"respuestaCorrecta": 2,
+"explicacion": "El tono es respetuoso, estructurado y usa léxico formal administrativo.",
+"pista": "Es un mensaje de negocios serio.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "En el voseo, ¿cómo se conjuga el verbo 'caminar' en presente?",
+"opciones": ["Vos caminas", "Vos caminás", "Vos camina", "Vos camine"],
+"respuestaCorrecta": 1,
+"explicacion": "El voseo lleva acento en la última sílaba en el presente del indicativo.",
+"pista": "Lleva tilde al final.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "El uso de jerga profesional (argot) define al registro:",
+"opciones": ["Vulgar", "Popular", "Técnico", "Religioso"],
+"respuestaCorrecta": 2,
+"explicacion": "El argot profesional o jerga técnica es exclusivo de grupos especializados.",
+"pista": "Es propio de expertos.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Cuál oración representa un registro culto?",
+"opciones": ["Me parece que la situación es harto compleja.", "Ese asunto está bien difícil, compa.", "La vara está ruda.", "El problema es muy grande."],
+"respuestaCorrecta": 0,
+"explicacion": "El uso del adverbio 'harto' como 'muy' y la estructura formal indican registro culto.",
+"pista": "Busque la opción más elegante.",
+"imagen": null,
+"grafico": null
+}
+],
+"Comprensión de textos literarios": [
+{
+"pregunta": "Lea: 'En un lugar de la Mancha, de cuyo nombre no quiero acordarme...'. Este fragmento pertenece a:",
+"opciones": ["Un cuento", "Una novela", "Una epopeya", "Un drama"],
+"respuestaCorrecta": 1,
+"explicacion": "Corresponde al inicio de 'Don Quijote', obra cumbre del género novela.",
+"pista": "Es una obra extensa y compleja.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Una característica del género cuento es:",
+"opciones": ["Gran extensión.", "Múltiples tramas paralelas.", "Brevedad y unidad de efecto.", "Escrito en verso."],
+"respuestaCorrecta": 2,
+"explicacion": "El cuento se define por su brevedad y por concentrarse en un solo suceso principal.",
+"pista": "Se lee de una sola sentada.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "El género dramático se distingue por:",
+"opciones": ["La presencia de rimas.", "Estar diseñado para ser representado.", "La narración de hazañas heroicas.", "El análisis científico de la realidad."],
+"respuestaCorrecta": 1,
+"explicacion": "Las obras dramáticas (teatro) se escriben para que actores las representen ante un público.",
+"pista": "Piense en el escenario y los diálogos.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Canta, oh musa, la cólera de Aquiles'. ¿A qué género pertenece?",
+"opciones": ["Lírico", "Epopeya", "Novela", "Ensayo"],
+"respuestaCorrecta": 1,
+"explicacion": "La invocación a la musa y la temática de héroes antiguos definen la epopeya.",
+"pista": "Trata de héroes y dioses de la antigüedad.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "En la poesía, quien expresa los sentimientos se denomina:",
+"opciones": ["Narrador", "Autor", "Yo lírico", "Personaje"],
+"respuestaCorrecta": 2,
+"explicacion": "El 'yo lírico' es la voz ficticia que expresa el mundo subjetivo en el poema.",
+"pista": "No es necesariamente el poeta real.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Un texto que utiliza acotaciones y diálogos pertenece al género:",
+"opciones": ["Narrativo", "Lírico", "Dramático", "Ensayo"],
+"respuestaCorrecta": 2,
+"explicacion": "Las acotaciones (instrucciones para el actor) son exclusivas del texto dramático.",
+"pista": "Son notas entre paréntesis para los actores.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Había una vez un pequeño lobo que...'. Este inicio indica un género:",
+"opciones": ["Cuento", "Novela", "Drama", "Ensayo"],
+"respuestaCorrecta": 0,
+"explicacion": "La fórmula 'había una vez' es la introducción clásica del cuento.",
+"pista": "Típico de relatos breves infantiles o fantásticos.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Cuál es la función principal de la epopeya?",
+"opciones": ["Criticar la política actual.", "Exaltar los valores de un pueblo a través de héroes.", "Enseñar ciencia.", "Entretener con chistes."],
+"respuestaCorrecta": 1,
+"explicacion": "La epopeya busca fundamentar la identidad de una nación mediante sus leyendas heroicas.",
+"pista": "Tiene un carácter nacionalista y legendario.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La novela se diferencia del cuento en que:",
+"opciones": ["La novela es más corta.", "La novela tiene un mundo narrado más complejo.", "El cuento no tiene personajes.", "La novela solo usa rimas."],
+"respuestaCorrecta": 1,
+"explicacion": "La novela permite profundizar en la psicología de los personajes y desarrollar subtramas.",
+"pista": "La extensión permite mayor complejidad.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "El fragmento '¡Oh noche que guiaste! ¡Oh noche amable más que la alborada!' es de género:",
+"opciones": ["Lírico", "Épico", "Dramático", "Didáctico"],
+"respuestaCorrecta": 0,
+"explicacion": "La expresión de sentimientos íntimos y la musicalidad son propias de la lírica.",
+"pista": "Expresa el mundo interior.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Bernarda: (Dando un golpe de bastón en el suelo) ¡Silencio!'. Esto es:",
+"opciones": ["Narración", "Acotación y diálogo", "Verso", "Descripción científica"],
+"respuestaCorrecta": 1,
+"explicacion": "El nombre del personaje seguido de diálogo y paréntesis con acción es estructura dramática.",
+"pista": "Indica quién habla y qué hace.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué elemento es fundamental en la estructura del cuento?",
+"opciones": ["Cientos de páginas.", "Un clímax rápido y final impactante.", "Uso de datos estadísticos.", "Rima asonante en todos los párrafos."],
+"respuestaCorrecta": 1,
+"explicacion": "El cuento requiere economía de palabras para llegar a un desenlace efectivo.",
+"pista": "Busca la intensidad sobre la extensión.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La Odisea es un ejemplo de:",
+"opciones": ["Novela rosa", "Epopeya", "Entremés", "Crónica"],
+"respuestaCorrecta": 1,
+"explicacion": "Narra los viajes de Ulises y sus encuentros con seres míticos, siendo una epopeya griega.",
+"pista": "Escrito por Homero.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "En un texto literario, la voz que relata los hechos se llama:",
+"opciones": ["Autor", "Narrador", "Crítico", "Editor"],
+"respuestaCorrecta": 1,
+"explicacion": "El narrador es la instancia ficcional que cuenta la historia desde un punto de vista.",
+"pista": "Es quien cuenta, no quien escribe el libro físicamente.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique el modo discursivo predominante en un relato de viajes:",
+"opciones": ["Argumentativo", "Narrativo", "Expositivo", "Descriptivo"],
+"respuestaCorrecta": 1,
+"explicacion": "Relatar sucesos en el tiempo es la esencia de la narración.",
+"pista": "Cuenta acciones que suceden.",
+"imagen": null,
+"grafico": null
+}
+],
+"Figuras literarias y de construcción": [
+{
+"pregunta": "Lea: 'Tus dientes son perlas'. ¿Qué figura literaria se utiliza?",
+"opciones": ["Símil", "Metáfora", "Hipérbole", "Personificación"],
+"respuestaCorrecta": 1,
+"explicacion": "Es una metáfora directa que identifica un objeto con otro por su semejanza.",
+"pista": "Es una identificación directa, sin 'como'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Corrió tan rápido que dejó atrás al viento'. ¿Qué figura literaria es?",
+"opciones": ["Símil", "Metáfora", "Hipérbole", "Personificación"],
+"respuestaCorrecta": 2,
+"explicacion": "Es una exageración de la realidad (hipérbole) para dar énfasis.",
+"pista": "Busque la exageración.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'El sol me sonreía cada mañana'. ¿Qué figura literaria es?",
+"opciones": ["Personificación", "Hipérbole", "Metáfora", "Símil"],
+"respuestaCorrecta": 0,
+"explicacion": "Atribuye cualidades humanas (sonreír) a un objeto inanimado (el sol).",
+"pista": "Dar vida o rasgos humanos a cosas.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Era tan alto como un pino'. ¿Qué figura literaria es?",
+"opciones": ["Metáfora", "Símil", "Personificación", "Epíteto"],
+"respuestaCorrecta": 1,
+"explicacion": "Establece una comparación explícita usando el nexo 'como'.",
+"pista": "Busque la palabra 'como'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Volverán las oscuras golondrinas / en tu balcón sus nidos a colgar'. La alteración del orden lógico es:",
+"opciones": ["Anáfora", "Hipérbaton", "Polisíndeton", "Reiteración"],
+"respuestaCorrecta": 1,
+"explicacion": "El hipérbaton consiste en cambiar el orden sintáctico habitual de la oración.",
+"pista": "Suena como habla el personaje Yoda.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La repetición de una palabra al inicio de varios versos se llama:",
+"opciones": ["Epíteto", "Anáfora", "Reiteración", "Hipérbole"],
+"respuestaCorrecta": 1,
+"explicacion": "La anáfora es una figura de construcción basada en la repetición inicial.",
+"pista": "Repite al principio.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Y ríe, y salta, y baila, y sueña'. ¿Qué figura de construcción es?",
+"opciones": ["Polisíndeton", "Hipérbaton", "Epíteto", "Anáfora"],
+"respuestaCorrecta": 0,
+"explicacion": "El polisíndeton es la repetición innecesaria de conjunciones (como 'y').",
+"pista": "Usa muchas conjunciones.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'La blanca nieve cubría el campo'. El adjetivo 'blanca' funciona como:",
+"opciones": ["Símil", "Epíteto", "Metáfora", "Anáfora"],
+"respuestaCorrecta": 1,
+"explicacion": "El epíteto es un adjetivo que añade una cualidad inherente al sustantivo.",
+"pista": "Es una cualidad obvia pero embellecedora.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Silencio, silencio, todo es silencio'. ¿Qué figura de construcción es?",
+"opciones": ["Anáfora", "Reiteración", "Hipérbaton", "Polisíndeton"],
+"respuestaCorrecta": 1,
+"explicacion": "La reiteración es la repetición de palabras en cualquier parte del verso para dar énfasis.",
+"pista": "Repite la misma palabra varias veces.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'El rugido de los cañones de la tormenta'. Es una:",
+"opciones": ["Personificación", "Metáfora", "Hipérbole", "Símil"],
+"respuestaCorrecta": 1,
+"explicacion": "Compara el trueno con cañones sin usar nexos comparativos.",
+"pista": "Identificación poética de dos realidades.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Tengo un sueño que me muero'. Es una:",
+"opciones": ["Metáfora", "Símil", "Hipérbole", "Anáfora"],
+"respuestaCorrecta": 2,
+"explicacion": "Nadie muere literalmente de sueño en este contexto; es una exageración.",
+"pista": "Aumenta la realidad.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Péinate con el peine de los vientos'. Es una:",
+"opciones": ["Hipérbaton", "Metáfora", "Reiteración", "Epíteto"],
+"respuestaCorrecta": 1,
+"explicacion": "Metáfora que asocia el viento con un peine por su capacidad de mover el cabello.",
+"pista": "Identifica viento con peine.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique la anáfora:",
+"opciones": ["Vuela, vuela alto.", "Por ti la tierra, / por ti el cielo, / por ti la vida.", "Ella es como una flor.", "La noche está estrellada."],
+"respuestaCorrecta": 1,
+"explicacion": "Repetir 'por ti' al inicio de cada frase es una anáfora clara.",
+"pista": "Repetición vertical al inicio.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Dura piedra'. Es un ejemplo de:",
+"opciones": ["Metáfora", "Epíteto", "Hipérbole", "Símil"],
+"respuestaCorrecta": 1,
+"explicacion": "La dureza es intrínseca a la piedra; el adjetivo es un epíteto.",
+"pista": "Cualidad propia del objeto.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'La ciudad dormía bajo el manto de la noche'. Es una:",
+"opciones": ["Personificación", "Símil", "Anáfora", "Polisíndeton"],
+"respuestaCorrecta": 0,
+"explicacion": "Atribuir el sueño a la ciudad completa es personificación.",
+"pista": "La ciudad no duerme literalmente.",
+"imagen": null,
+"grafico": null
+}
+],
+"Comprensión de textos no literarios 2": [
+{
+"pregunta": "Un texto que expone los resultados de un experimento químico es:",
+"opciones": ["Un ensayo", "Un artículo científico", "Un editorial", "Una crónica"],
+"respuestaCorrecta": 1,
+"explicacion": "Los textos científicos se caracterizan por la objetividad y el rigor experimental.",
+"pista": "Usa el método científico.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "El ensayo se define principalmente como un género donde el autor:",
+"opciones": ["Cuenta historias ficticias.", "Expresa su opinión subjetiva sobre un tema real.", "Solo da noticias del día.", "Escribe poemas sin rima."],
+"respuestaCorrecta": 1,
+"explicacion": "El ensayo combina la exposición de un tema con la visión crítica y personal del autor.",
+"pista": "Es argumentativo y personal.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "En un texto periodístico, la noticia debe ser:",
+"opciones": ["Larga y aburrida.", "Objetiva, veraz y oportuna.", "Llena de figuras literarias.", "Escrita en verso."],
+"respuestaCorrecta": 1,
+"explicacion": "La ética periodística exige que la noticia refleje la realidad sin sesgos y a tiempo.",
+"pista": "Basada en hechos reales y actuales.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Cuál es la función de la idea principal en un párrafo?",
+"opciones": ["Adornar el texto.", "Resumir el contenido esencial del párrafo.", "Dar ejemplos irrelevantes.", "Confundir al lector."],
+"respuestaCorrecta": 1,
+"explicacion": "La idea principal es el núcleo informativo sin el cual el párrafo pierde sentido.",
+"pista": "Es lo más importante.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Las ideas secundarias sirven para:",
+"opciones": ["Contradecir la idea principal.", "Ampliar, ejemplificar o demostrar la idea principal.", "Eliminar el aburrimiento.", "Hacer el texto más corto."],
+"respuestaCorrecta": 1,
+"explicacion": "Complementan la información principal para dar mayor claridad y detalle.",
+"pista": "Acompañan y explican la idea base.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Un texto con el título 'Importancia de la reforestación en Costa Rica' probablemente es:",
+"opciones": ["Científico", "Expositivo-Argumentativo", "Literario", "Dramático"],
+"respuestaCorrecta": 1,
+"explicacion": "Temas de interés social tratados con argumentos suelen ser ensayos o artículos de opinión.",
+"pista": "Busca concienciar o explicar un tema real.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La objetividad es una característica propia de:",
+"opciones": ["La poesía", "El texto científico", "La novela de terror", "El cuento de hadas"],
+"respuestaCorrecta": 1,
+"explicacion": "La ciencia debe basarse en hechos comprobables independientemente del sujeto.",
+"pista": "No depende de sentimientos.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué busca un texto argumentativo?",
+"opciones": ["Hacer reír.", "Convencer al receptor sobre un punto de vista.", "Narrar una boda.", "Describir un paisaje."],
+"respuestaCorrecta": 1,
+"explicacion": "Su objetivo es persuadir mediante razones y pruebas.",
+"pista": "Quiere que usted piense igual que el autor.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'El cambio climático es una realidad innegable respaldada por el 99% de científicos'. Esto es:",
+"opciones": ["Un dato objetivo", "Una opinión subjetiva", "Una metáfora", "Un verso"],
+"respuestaCorrecta": 0,
+"explicacion": "Se presenta un hecho basado en estadísticas y consenso profesional.",
+"pista": "Basado en pruebas.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "En un ensayo, la 'tesis' es:",
+"opciones": ["El título.", "La postura o idea que el autor defiende.", "La bibliografía.", "El nombre del autor."],
+"respuestaCorrecta": 1,
+"explicacion": "La tesis es el pilar argumentativo del ensayo.",
+"pista": "Es la opinión central.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Cuál es la característica del lenguaje denotativo?",
+"opciones": ["Es poético y subjetivo.", "Usa el significado literal de las palabras.", "Es confuso.", "Depende del estado de ánimo."],
+"respuestaCorrecta": 1,
+"explicacion": "La denotación es el significado básico y directo de las palabras (como en el diccionario).",
+"pista": "Significado real y directo.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Un texto que instruye cómo armar un mueble es:",
+"opciones": ["Literario", "Apelativo/Instruccional", "Narrativo", "Poético"],
+"respuestaCorrecta": 1,
+"explicacion": "Su fin es guiar una acción del receptor mediante pasos.",
+"pista": "Da instrucciones.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'El tabaquismo causa cáncer'. La intención del texto es:",
+"opciones": ["Entretener", "Informar/Advertir", "Expresar belleza", "Contar un chiste"],
+"respuestaCorrecta": 1,
+"explicacion": "Busca transmitir una verdad médica para informar al lector.",
+"pista": "Da una información vital.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Un editorial de un periódico representa:",
+"opciones": ["La opinión de un lector.", "La posición oficial del diario sobre un tema.", "Una noticia de deportes.", "Un anuncio publicitario."],
+"respuestaCorrecta": 1,
+"explicacion": "El editorial refleja el pensamiento de la institución periodística.",
+"pista": "Voz oficial del periódico.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La estructura del ensayo suele ser:",
+"opciones": ["Nudo, desenlace y moraleja.", "Introducción, desarrollo y conclusión.", "Rima, estrofa y verso.", "Acto 1, Acto 2 y Acto 3."],
+"respuestaCorrecta": 1,
+"explicacion": "Es la estructura lógica para presentar, discutir y cerrar un tema.",
+"pista": "Comienza, explica y termina.",
+"imagen": null,
+"grafico": null
+}
+],
+"Gramática y ortografía 2": [
+{
+"pregunta": "Identifique la palabra con tilde correcta:",
+"opciones": ["Exámen", "Cámion", "Árbol", "Corazónes"],
+"respuestaCorrecta": 2,
+"explicacion": "'Árbol' es una palabra grave terminada en consonante distinta de n o s, por lo que lleva tilde.",
+"pista": "Palabra grave terminada en L.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Cuándo se escribe 'por qué' (separado y con tilde)?",
+"opciones": ["En respuestas.", "En preguntas directas o indirectas.", "Cuando equivale a un motivo.", "Siempre que se quiera."],
+"respuestaCorrecta": 1,
+"explicacion": "Se usa en interrogaciones para preguntar la causa.",
+"pista": "Se usa para preguntar.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Elija la opción correcta: 'No vine ______ estaba enfermo'.",
+"opciones": ["porque", "por que", "porqué", "por qué"],
+"respuestaCorrecta": 0,
+"explicacion": "'Porque' (pegado y sin tilde) se usa para expresar causa o razón en respuestas.",
+"pista": "Equivale a 'ya que'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué palabra es esdrújula?",
+"opciones": ["Canción", "Música", "Papel", "Lápiz"],
+"respuestaCorrecta": 1,
+"explicacion": "El acento cae en la antepenúltima sílaba: MÚ-si-ca. Todas las esdrújulas se tildan.",
+"pista": "Acento en la antepenúltima.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique el uso correcto de 'asimismo':",
+"opciones": ["Asimismo, debemos considerar el presupuesto.", "Se miró asimismo en el espejo.", "A sí mismo, el libro es bueno.", "No hay forma correcta."],
+"respuestaCorrecta": 0,
+"explicacion": "'Asimismo' (una palabra) es un adverbio que significa 'también' o 'además'.",
+"pista": "Significa 'también'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Complete: 'No quiero ir, ______ me quedaré en casa'.",
+"opciones": ["sino", "si no", "sinó", "si nó"],
+"respuestaCorrecta": 0,
+"explicacion": "'Sino' es una conjunción adversativa que se usa para contraponer un concepto a otro.",
+"pista": "Contrapone una idea negativa previa.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Complete: '______ vienes, me iré solo'.",
+"opciones": ["Sino", "Si no", "Sinó", "Si nó"],
+"respuestaCorrecta": 1,
+"explicacion": "'Si no' (separado) introduce una condición negativa.",
+"pista": "Es una condición.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La palabra 'café' es aguda porque:",
+"opciones": ["Termina en vocal.", "El acento está en la última sílaba.", "Tiene dos sílabas.", "Lleva tilde."],
+"respuestaCorrecta": 1,
+"explicacion": "Las palabras agudas tienen la mayor fuerza de voz en la última sílaba.",
+"pista": "Acento al final.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique la oración con mayúsculas correctas:",
+"opciones": ["El Río Amazonas es largo.", "el río Amazonas es largo.", "El río amazonas es largo.", "El río Amazonas es largo."],
+"respuestaCorrecta": 3,
+"explicacion": "Los nombres propios de accidentes geográficos llevan mayúscula, pero el sustantivo común 'río' va en minúscula.",
+"pista": "Solo el nombre propio del río va en mayúscula.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Uso de 'conque': 'Ya terminaste, ______ vámonos'.",
+"opciones": ["conque", "con que", "con qué", "conqué"],
+"respuestaCorrecta": 0,
+"explicacion": "'Conque' es una conjunción que expresa consecuencia, equivale a 'así que'.",
+"pista": "Significa 'así que'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué palabra tiene un hiato?",
+"opciones": ["Cielo", "Auto", "Teatro", "Baile"],
+"respuestaCorrecta": 2,
+"explicacion": "En 'te-a-tro', las vocales fuertes se separan en sílabas distintas.",
+"pista": "Dos vocales fuertes juntas se separan.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Uso de 'dé':",
+"opciones": ["Espero que me dé permiso.", "El libro de Juan.", "Dé pie a la carrera.", "La casa de madera."],
+"respuestaCorrecta": 0,
+"explicacion": "'Dé' lleva tilde diacrítica cuando es del verbo dar.",
+"pista": "Verbo dar.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique la palabra con división silábica correcta:",
+"opciones": ["Pa-i-sa-je", "Eu-fo-ria", "E-u-fo-ria", "Pai-sa-je"],
+"respuestaCorrecta": 3,
+"explicacion": "'Pai' forma un diptongo, por lo que no se separa.",
+"pista": "Diptongo no se rompe.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La expresión 'a través de' se escribe:",
+"opciones": ["A través", "Através", "A traves", "Atravez"],
+"respuestaCorrecta": 0,
+"explicacion": "Es una locución preposicional que se escribe siempre separada y con tilde en la e.",
+"pista": "Dos palabras, con s y tilde.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Uso de 'mediodía':",
+"opciones": ["Nos vemos al mediodía.", "Trabajo medio día solamente.", "Es medio día de sol.", "Comí a medio-día."],
+"respuestaCorrecta": 0,
+"explicacion": "'Mediodía' se escribe junto cuando se refiere a las 12:00 m.",
+"pista": "Se refiere a la hora exacta.",
+"imagen": null,
+"grafico": null
+}
+],
+"Variados y Análisis Final": [
+{
+"pregunta": "En el texto 'Mamita Yunai', se denuncia la situación de:",
+"opciones": ["Los obreros bananeros.", "Los astronautas.", "Los políticos de ciudad.", "Los maestros de escuela."],
+"respuestaCorrecta": 0,
+"explicacion": "Es una obra clave de la literatura costarricense que expone la explotación en las bananeras.",
+"pista": "Trata sobre la United Fruit Company.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La locución 'a pierna suelta' significa:",
+"opciones": ["Caminar rápido.", "Dormir profundamente.", "Tener una herida.", "Ser muy ágil."],
+"respuestaCorrecta": 1,
+"explicacion": "Es una frase hecha que describe un sueño reparador y sin preocupaciones.",
+"pista": "Se asocia con el descanso.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Un texto que utiliza 'yo' constante y sentimientos es:",
+"opciones": ["Subjetivo", "Objetivo", "Técnico", "Informativo"],
+"respuestaCorrecta": 0,
+"explicacion": "La subjetividad es la expresión del mundo interior del emisor.",
+"pista": "Basado en el 'yo'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué figura de construcción es: 'Verde prado, fresca sombra, dulce agua'?",
+"opciones": ["Epíteto", "Hipérbaton", "Anáfora", "Polisíndeton"],
+"respuestaCorrecta": 0,
+"explicacion": "El uso de adjetivos antepuestos que resaltan cualidades propias es epíteto.",
+"pista": "Adjetivos que adornan lo obvio.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "El propósito de un texto científico es:",
+"opciones": ["Hacer llorar.", "Divulgar conocimiento comprobado.", "Vender un producto.", "Criticar al gobierno."],
+"respuestaCorrecta": 1,
+"explicacion": "Busca compartir avances de la ciencia con rigor y datos.",
+"pista": "Relacionado con el saber académico.",
+"imagen": null,
+"grafico": null
+}
+],
+"Formas de tratamiento y registros de habla 2": [
+{
+"pregunta": "Lea las siguientes expresiones:\n1. Mirá qué belleza de paisaje.\n2. Usted sabe que lo estimo mucho.\n3. Tú eres la razón de mi alegría.\n4. Comé un poco más, por favor.\n¿Cuáles números identifican oraciones con voseo?",
+"opciones": ["1 y 2", "1 y 4", "2 y 3", "3 y 4"],
+"respuestaCorrecta": 1,
+"explicacion": "Las formas verbales 'Mirá' y 'Comé' son características del voseo por su acentuación en la vocal temática.",
+"pista": "El voseo suele tildar la última sílaba en imperativos.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique el registro de habla en el siguiente fragmento: 'La desoxigenación de los océanos representa una amenaza latente para la biodiversidad marina'.",
+"opciones": ["Coloquial", "Técnico", "Literario", "Popular"],
+"respuestaCorrecta": 1,
+"explicacion": "El uso de términos especializados como 'desoxigenación' y 'biodiversidad' denota un registro científico-técnico.",
+"pista": "Se enfoca en precisión científica.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué forma de tratamiento predomina en la frase: 'Señor director, reciba un cordial saludo'?",
+"opciones": ["Tuteo", "Voseo", "Ustedeo", "Ninguna"],
+"respuestaCorrecta": 2,
+"explicacion": "El uso de 'Señor' y el verbo en tercera persona 'reciba' corresponden al ustedeo formal.",
+"pista": "Es una fórmula de respeto.",
+"imagen": null,
+"grafico": null
+}
+],
+"Comprensión de textos literarios 2": [
+{
+"pregunta": "Lea: 'El sol de la tarde caía pesadamente sobre los techos de zinc, mientras el pueblo dormía una siesta infinita'. ¿Qué tipo de mundo se sugiere?",
+"opciones": ["Fantástico", "Realista", "Onírico", "Mítico"],
+"respuestaCorrecta": 1,
+"explicacion": "La descripción se ajusta a elementos de la realidad cotidiana y climática de un entorno físico.",
+"pista": "Describe el entorno tal cual es.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Una característica esencial de la epopeya es la presencia de:",
+"opciones": ["Un narrador protagonista", "Héroes con dimensiones sobrehumanas", "Rima constante en todos los versos", "Crítica a la tecnología moderna"],
+"respuestaCorrecta": 1,
+"explicacion": "La epopeya exalta figuras heroicas que representan los valores de una nación.",
+"pista": "Piense en personajes como Aquiles o Ulises.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "En el género dramático, el texto escrito por el autor para guiar la representación se conoce como:",
+"opciones": ["Guion o libreto", "Poema", "Ensayo", "Crónica"],
+"respuestaCorrecta": 0,
+"explicacion": "El guion contiene los diálogos y las acotaciones necesarias para la puesta en escena.",
+"pista": "Es la base del teatro.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Era un lugar donde los espejos hablaban y las sombras tenían vida propia'. ¿A qué tipo de narración pertenece?",
+"opciones": ["Científica", "Realista", "Fantástica", "Periodística"],
+"respuestaCorrecta": 2,
+"explicacion": "La ruptura de las leyes naturales (espejos que hablan) define lo fantástico.",
+"pista": "Ocurren cosas imposibles en el mundo real.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "El 'tiempo lineal' en una narración significa que los hechos:",
+"opciones": ["Ocurren de forma desordenada", "Siguen un orden cronológico sucesivo", "Empiezan por el final", "Son todos sueños"],
+"respuestaCorrecta": 1,
+"explicacion": "La linealidad implica una secuencia lógica de pasado, presente y futuro.",
+"pista": "Sigue la línea del reloj.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Yo la quise, y a veces ella también me quiso'. El narrador es:",
+"opciones": ["Omnisciente", "Protagonista", "Testigo", "Observador"],
+"respuestaCorrecta": 1,
+"explicacion": "El uso de la primera persona ('Yo') indica que quien cuenta es el personaje principal.",
+"pista": "Habla de sí mismo.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La función de las acotaciones en un texto dramático es:",
+"opciones": ["Contar chistes al público", "Indicar gestos, movimientos o escenografía", "Hacer que el texto rime", "Explicar el final del libro"],
+"respuestaCorrecta": 1,
+"explicacion": "Son notas del autor para dirigir la acción no verbal de los actores.",
+"pista": "Van entre paréntesis generalmente.",
+"imagen": null,
+"grafico": null
+}
+],
+"Figuras literarias y de construcción 2": [
+{
+"pregunta": "Lea: 'El viento silbaba una canción triste entre los pinos'. ¿Qué figura literaria predomina?",
+"opciones": ["Metáfora", "Personificación", "Símil", "Hipérbole"],
+"respuestaCorrecta": 1,
+"explicacion": "Atribuir la acción de 'silbar una canción' al viento es darle rasgos humanos.",
+"pista": "Cualidad humana a un objeto.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Sus manos eran como dos ramas secas'. ¿Qué figura literaria es?",
+"opciones": ["Metáfora", "Símil", "Hipérbole", "Anáfora"],
+"respuestaCorrecta": 1,
+"explicacion": "Utiliza el nexo 'como' para establecer la comparación.",
+"pista": "Busque el nexo comparativo.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: '¡Oh, gran Dios de los mares!'. La figura de construcción que resalta el sustantivo con un adjetivo calificativo es:",
+"opciones": ["Epíteto", "Anáfora", "Reiteración", "Hipérbaton"],
+"respuestaCorrecta": 0,
+"explicacion": "Aunque 'gran' es común, en este contexto poético funciona como epíteto resaltando una cualidad.",
+"pista": "Adjetivo calificativo.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Puse el alma en el papel, puse el grito en el cielo'. La repetición de 'puse' al inicio es:",
+"opciones": ["Polisíndeton", "Anáfora", "Hipérbaton", "Símil"],
+"respuestaCorrecta": 1,
+"explicacion": "La repetición rítmica de palabras al inicio de oraciones es anáfora.",
+"pista": "Repite al empezar.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Lloré ríos de lágrimas por tu partida'. ¿Qué figura literaria es?",
+"opciones": ["Metáfora", "Símil", "Hipérbole", "Personificación"],
+"respuestaCorrecta": 2,
+"explicacion": "Es una exageración evidente del acto de llorar.",
+"pista": "Exageración.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Inés, tus cabellos son hilos de oro'. Es una:",
+"opciones": ["Metáfora", "Símil", "Hipérbole", "Anáfora"],
+"respuestaCorrecta": 0,
+"explicacion": "Identifica cabellos con hilos de oro sin usar nexos.",
+"pista": "A = B.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Del salón en el ángulo oscuro...'. El orden lógico sería 'En el ángulo oscuro del salón'. Esto es:",
+"opciones": ["Hipérbaton", "Metáfora", "Símil", "Reiteración"],
+"respuestaCorrecta": 0,
+"explicacion": "Se ha alterado el orden sintáctico habitual.",
+"pista": "Desorden gramatical.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Triste, triste estaba el niño'. ¿Qué figura de construcción es?",
+"opciones": ["Anáfora", "Reiteración", "Polisíndeton", "Hipérbaton"],
+"respuestaCorrecta": 1,
+"explicacion": "La repetición inmediata de la palabra 'triste' busca dar énfasis.",
+"pista": "Repite la palabra seguida.",
+"imagen": null,
+"grafico": null
+}
+],
+"Comprensión de textos no literarios 3": [
+{
+"pregunta": "En un ensayo, la parte donde se presentan los argumentos detallados se llama:",
+"opciones": ["Introducción", "Desarrollo", "Conclusión", "Bibliografía"],
+"respuestaCorrecta": 1,
+"explicacion": "El cuerpo o desarrollo es donde se expande la tesis con pruebas.",
+"pista": "Es la parte más extensa.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Un rasgo distintivo del artículo de opinión es:",
+"opciones": ["La ausencia de firma del autor", "El uso de un lenguaje extremadamente técnico", "La presencia de juicios de valor del autor", "Que solo habla de eventos pasados"],
+"respuestaCorrecta": 2,
+"explicacion": "A diferencia de la noticia, el artículo de opinión refleja el punto de vista subjetivo.",
+"pista": "Muestra lo que el autor piensa.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué busca un texto con lenguaje connotativo?",
+"opciones": ["Dar información exacta de diccionarios", "Sugerir significados emocionales o figurados", "Confundir al lector con mentiras", "Ser lo más aburrido posible"],
+"respuestaCorrecta": 1,
+"explicacion": "La connotación añade capas de significado personal o cultural.",
+"pista": "Va más allá del significado literal.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La 'coherencia' en un texto se refiere a:",
+"opciones": ["Que todas las palabras rimen", "La conexión lógica entre las ideas", "El uso de muchas imágenes", "Que el texto sea muy largo"],
+"respuestaCorrecta": 1,
+"explicacion": "Un texto es coherente cuando sus partes tienen sentido entre sí y con el tema central.",
+"pista": "Sentido lógico.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Un texto que resume las ideas principales y cierra el tema es la:",
+"opciones": ["Tesis", "Introducción", "Conclusión", "Argumentación"],
+"respuestaCorrecta": 2,
+"explicacion": "La conclusión sintetiza lo expuesto y ofrece un cierre.",
+"pista": "Es el final.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: 'Es urgente prohibir los plásticos de un solo uso para salvar los océanos'. ¿Cuál es la intención?",
+"opciones": ["Descriptiva", "Persuasiva", "Informativa", "Narrativa"],
+"respuestaCorrecta": 1,
+"explicacion": "El autor intenta convencer al lector de tomar una postura o acción.",
+"pista": "Busca convencer.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "El lenguaje objetivo se utiliza preferentemente en:",
+"opciones": ["Poemas de amor", "Manuales de usuario e informes científicos", "Novelas de caballería", "Diarios personales"],
+"respuestaCorrecta": 1,
+"explicacion": "Los manuales y ciencias requieren exactitud y neutralidad.",
+"pista": "No usa sentimientos.",
+"imagen": null,
+"grafico": null
+}
+],
+"Gramática y ortografía 3": [
+{
+"pregunta": "Identifique la palabra grave que debe llevar tilde:",
+"opciones": ["Computadora", "Lápiz", "Examen", "Libreta"],
+"respuestaCorrecta": 1,
+"explicacion": "Lápiz termina en 'z', por lo tanto, al ser grave, requiere tilde.",
+"pista": "Termina en consonante que no es n ni s.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Cuál es el uso correcto de 'sino'?",
+"opciones": ["No quiero pan, sino galletas.", "Si no vienes, me voy.", "El sino de la vida es incierto.", "Todas son correctas."],
+"respuestaCorrecta": 0,
+"explicacion": "Se usa 'sino' para oponer una afirmación a una negación previa.",
+"pista": "Contrapone ideas.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Uso de 'porqué': 'Dime el ______ de tu decisión'.",
+"opciones": ["porque", "por que", "porqué", "por qué"],
+"respuestaCorrecta": 2,
+"explicacion": "'Porqué' funciona como sustantivo (el motivo) y lleva tilde.",
+"pista": "Equivale a 'la razón'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La palabra 'teléfono' se tilda porque es:",
+"opciones": ["Aguda", "Grave", "Esdrújula", "Sobresdrújula"],
+"respuestaCorrecta": 2,
+"explicacion": "El acento recae en la antepenúltima sílaba (té-).",
+"pista": "Antepenúltima sílaba.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique la opción con concordancia correcta:",
+"opciones": ["Las gente están felices.", "El grupo de niños corren.", "La mayoría de estudiantes aprobó.", "Hubieron muchos problemas."],
+"respuestaCorrecta": 2,
+"explicacion": "Aunque 'estudiantes' es plural, el núcleo es 'La mayoría' (singular), por lo que el verbo va en singular.",
+"pista": "Fíjese en el núcleo del sujeto.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué palabra presenta un diptongo?",
+"opciones": ["Caos", "Viento", "Poeta", "Día"],
+"respuestaCorrecta": 1,
+"explicacion": "En 'vien-to', la vocal débil 'i' y la fuerte 'e' permanecen juntas.",
+"pista": "Unión de dos vocales en una sílaba.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Elija la oración escrita correctamente:",
+"opciones": ["Haz lo que te digo.", "Has lo que te digo.", "As lo que te digo.", "Ace lo que te digo."],
+"respuestaCorrecta": 0,
+"explicacion": "'Haz' es el imperativo del verbo hacer.",
+"pista": "Viene de 'hacer'.",
+"imagen": null,
+"grafico": null
+}
+],
+"Relaciones de significado y normativa 2": [
+{
+"pregunta": "Las palabras 'bello' y 'vello' son:",
+"opciones": ["Sinónimas", "Antónimas", "Homófonas", "Parónimas"],
+"respuestaCorrecta": 2,
+"explicacion": "Suenan igual pero se escriben distinto y tienen significados diferentes.",
+"pista": "Igual sonido.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique el antónimo de 'efímero':",
+"opciones": ["Pasajero", "Breve", "Duradero", "Fugaz"],
+"respuestaCorrecta": 2,
+"explicacion": "Efímero significa que dura poco; lo opuesto es algo que dura mucho.",
+"pista": "Lo contrario de corto tiempo.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Complete: 'No ______ ninguna duda de su talento'.",
+"opciones": ["haiga", "haya", "hallá", "allá"],
+"respuestaCorrecta": 1,
+"explicacion": "'Haya' es del verbo haber. 'Haiga' es una forma incorrecta.",
+"pista": "Del verbo haber.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Cuál es el plural correcto de 'carácter'?",
+"opciones": ["Carácteres", "Caracteres", "Carácteris", "Carácters"],
+"respuestaCorrecta": 1,
+"explicacion": "En el plural, el acento se desplaza a la penúltima sílaba: ca-rac-te-res.",
+"pista": "Se mueve el acento.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Uso de la 'v' y 'b':",
+"opciones": ["Escribir", "Escriwir", "Escrivir", "Escriber"],
+"respuestaCorrecta": 0,
+"explicacion": "Los verbos terminados en -bir se escriben con 'b' (excepto hervir, servir, vivir).",
+"pista": "Regla de los verbos en -bir.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique la oración que usa correctamente 'sobre todo':",
+"opciones": ["Me gusta el café, sobre todo por la mañana.", "Me pondré el sobretodo porque hace frío.", "No sé sobretodo lo que pasó.", "Todo sobre todo es difícil."],
+"respuestaCorrecta": 0,
+"explicacion": "'Sobre todo' (separado) significa 'especialmente'.",
+"pista": "Equivale a 'especialmente'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La palabra 'ahí' indica:",
+"opciones": ["Un lugar cercano al receptor", "Una expresión de dolor", "Una forma del verbo haber", "Un tiempo pasado"],
+"respuestaCorrecta": 0,
+"explicacion": "'Ahí' es un adverbio de lugar.",
+"pista": "Señala ubicación.",
+"imagen": null,
+"grafico": null
+}
+],
+"Análisis de textos costarricenses": [
+{
+"pregunta": "En la literatura nacional, el 'costumbrismo' se caracteriza por:",
+"opciones": ["Hablar de viajes espaciales", "Retratar las tradiciones y el habla del campesino", "Usar solo palabras en inglés", "Ser exclusivamente poesía"],
+"respuestaCorrecta": 1,
+"explicacion": "Busca rescatar la identidad local a través de la descripción de costumbres rurales.",
+"pista": "Piense en 'Concherías'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿Qué tema es recurrente en la Generación del 40 en Costa Rica?",
+"opciones": ["La magia", "La problemática social y bananera", "La mitología griega", "La tecnología cuántica"],
+"respuestaCorrecta": 1,
+"explicacion": "Autores como Carlos Luis Fallas se enfocaron en la denuncia social.",
+"pista": "Denuncia de injusticias.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "La obra 'La isla de los hombres solos' de José León Sánchez trata sobre:",
+"opciones": ["Unas vacaciones en el Caribe", "La vida de los reclusos en la cárcel de San Lucas", "Un náufrago feliz", "Un equipo de fútbol"],
+"respuestaCorrecta": 1,
+"explicacion": "Es un relato crudo sobre el presidio en la isla San Lucas.",
+"pista": "Relacionado con una antigua cárcel.",
+"imagen": null,
+"grafico": null
+}
+],
+"Comprensión de lectura crítica y textos extensos": [
+{
+"pregunta": "Lea el siguiente texto: «La globalización no es solo un fenómeno económico, sino un proceso que redefine las identidades culturales. Mientras algunos ven en ella una oportunidad para el intercambio, otros temen la homogeneización que borra las particularidades locales. En Costa Rica, este dilema se vive en la tensión entre el turismo masivo y la preservación de nuestras raíces rurales, donde el paisaje natural se convierte en mercancía y la tradición en un espectáculo para el foráneo». Según el texto, ¿cuál es una consecuencia de la globalización en el contexto costarricense?",
+"opciones": [
+"La eliminación total de la actividad turística.",
+"La transformación de la tradición en un espectáculo para extranjeros.",
+"El fortalecimiento automático de la identidad rural.",
+"La prohibición del intercambio económico internacional."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto afirma explícitamente que la tradición se convierte en un espectáculo para el foráneo debido a la mercantilización cultural.",
+"pista": "Analice la última frase sobre la 'tradición'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el siguiente fragmento: «El sistema educativo enfrenta el reto de la brecha digital. No basta con dotar de dispositivos a las escuelas si no existe una capacitación docente que transforme la tecnología en una herramienta pedagógica real. La conectividad es un derecho, pero el conocimiento crítico es la verdadera llave de la equidad en el siglo XXI». ¿Cuál es la idea principal del autor?",
+"opciones": [
+"La compra de computadoras es el único camino a la equidad.",
+"La tecnología por sí sola no garantiza la mejora educativa sin formación docente.",
+"Los docentes no deben usar herramientas tecnológicas en clase.",
+"La brecha digital ha sido eliminada por completo en el país."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El autor enfatiza que la dotación de equipo es insuficiente si no se acompaña de capacitación y pedagogía.",
+"pista": "Busque el condicionante después del 'No basta'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El cambio climático ya no es una predicción futurista; es un presente que golpea nuestras costas con niveles del mar ascendentes y sequías prolongadas en el Pacífico Norte. La resiliencia no es una opción, es una estrategia de supervivencia nacional que requiere un cambio en la matriz de consumo y producción». ¿Qué actitud predomina en el texto?",
+"opciones": [
+"Indiferencia ante los cambios climáticos.",
+"Optimismo sobre el futuro de las costas.",
+"Urgencia de tomar medidas de adaptación y cambio.",
+"Nostalgia por el clima del pasado."
+],
+"respuestaCorrecta": 2,
+"explicacion": "El uso de palabras como 'golpea', 'supervivencia' y 'urgente' denota una necesidad imperativa de actuar.",
+"pista": "Fíjese en los términos que denotan necesidad.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el siguiente texto: «La literatura es un espejo de la sociedad, pero también un martillo para darle forma. A través de la palabra, el escritor costarricense ha denunciado las injusticias del enclave bananero y ha soñado con una nación más justa. Leer no es solo decodificar signos, es participar en el diálogo histórico de un pueblo». Según el fragmento anterior, leer implica",
+"opciones": [
+"Únicamente aprender reglas de ortografía.",
+"Ignorar el pasado histórico de la nación.",
+"Involucrarse en el proceso histórico y social de la comunidad.",
+"Copiar el estilo de los escritores antiguos."
+],
+"respuestaCorrecta": 2,
+"explicacion": "El texto vincula la lectura con la participación en el diálogo histórico de un pueblo.",
+"pista": "Vea la definición final de 'Leer'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El estrés hídrico en las zonas urbanas de Costa Rica se debe, en gran medida, a la deficiente planificación territorial y al crecimiento desmedido de la infraestructura sin considerar la recarga de los acuíferos. El agua, más que un recurso, es un bien común que debe ser gestionado bajo criterios de sostenibilidad». Del texto anterior se infiere que",
+"opciones": [
+"El crecimiento urbano siempre es sostenible.",
+"El agua es un recurso inagotable en las ciudades.",
+"La mala planificación urbana afecta la disponibilidad del agua.",
+"No es necesario proteger los acuíferos."
+],
+"respuestaCorrecta": 2,
+"explicacion": "El texto vincula directamente el estrés hídrico con la deficiente planificación territorial.",
+"pista": "Busque la causa del problema mencionado.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el siguiente fragmento: «En la era de la posverdad, la verificación de datos se vuelve un imperativo ciudadano. Las redes sociales facilitan la propagación de noticias falsas que polarizan a la población. El pensamiento crítico es el único antídoto contra la manipulación informativa». En el texto, el término 'antídoto' se utiliza de forma",
+"opciones": [
+"Denotativa",
+"Connotativa",
+"Técnica",
+"Científica"
+],
+"respuestaCorrecta": 1,
+"explicacion": "Se usa en sentido figurado para referirse a una solución o remedio contra un problema social, no médico.",
+"pista": "El pensamiento crítico no es una medicina real.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el siguiente texto: «El sufragio femenino en Costa Rica, alcanzado en 1949, no fue una concesión gratuita del poder, sino el resultado de décadas de lucha de mujeres educadoras e intelectuales. Este hito transformó la democracia, permitiendo una ciudadanía más inclusiva y representativa de la realidad nacional». El tema central del texto es",
+"opciones": [
+"La historia de la educación costarricense.",
+"La importancia de la Constitución de 1949.",
+"La lucha por el voto femenino como motor de democracia.",
+"El papel de los partidos políticos en el siglo XX."
+],
+"respuestaCorrecta": 2,
+"explicacion": "El fragmento se centra en el proceso y significado del sufragio femenino en la democracia costarricense.",
+"pista": "Identifique el evento principal que se describe.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «Las áreas silvestres protegidas cubren más del 25% del territorio costarricense. Sin embargo, la presión del desarrollo inmobiliario y la cacería ilegal amenazan la conectividad de los corredores biológicos. La conservación requiere de un compromiso financiero real y no solo de leyes en el papel». Una conclusión válida del texto es que",
+"opciones": [
+"Las leyes por sí solas no garantizan la conservación.",
+"Costa Rica no tiene suficientes áreas protegidas.",
+"El desarrollo inmobiliario no afecta a los animales.",
+"La cacería ilegal ha desaparecido del país."
+],
+"respuestaCorrecta": 0,
+"explicacion": "El autor indica que la conservación necesita 'compromiso financiero real' y no solo 'leyes en el papel'.",
+"pista": "Observe la relación entre leyes y realidad financiera.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el siguiente fragmento de ensayo: «La inteligencia artificial promete revolucionar la medicina, pero plantea dilemas éticos profundos sobre la privacidad de los datos y la deshumanización de la atención. ¿Podrá un algoritmo reemplazar la empatía de un médico? El futuro depende de cómo equilibremos la eficiencia técnica con la sensibilidad humana». Según el autor, el mayor riesgo de la IA es",
+"opciones": [
+"El costo de la tecnología.",
+"La pérdida del factor humano y la privacidad.",
+"La falta de algoritmos eficientes.",
+"La mejora de la atención médica."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto cuestiona la pérdida de empatía (deshumanización) y menciona la privacidad como dilema.",
+"pista": "Busque los términos 'privacidad' y 'deshumanización'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El bilingüismo en la fuerza laboral de Costa Rica ha permitido atraer inversión extranjera directa, especialmente en el sector de servicios. No obstante, existe una disparidad notable entre las oportunidades de quienes dominan un segundo idioma en el Valle Central frente a las zonas costeras». El texto señala una",
+"opciones": [
+"Igualdad de oportunidades en todo el país.",
+"Desventaja competitiva en las zonas costeras.",
+"Prohibición de aprender idiomas fuera de la capital.",
+"Eliminación total del desempleo en el Valle Central."
+],
+"respuestaCorrecta": 1,
+"explicacion": "Menciona una 'disparidad notable' que afecta a quienes están fuera del Valle Central.",
+"pista": "La disparidad implica desigualdad de condiciones.",
+"imagen": null,
+"grafico": null
+}
+],
+"Análisis de textos literarios y figuras": [
+{
+"pregunta": "Lea el siguiente fragmento de un poema: «La tarde se ha dormido / en los hombros del camino / y el viento, niño travieso, / le roba el aroma al pino». ¿Qué figura literaria predomina en los dos primeros versos?",
+"opciones": [
+"Símil",
+"Hipérbole",
+"Personificación",
+"Anáfora"
+],
+"respuestaCorrecta": 2,
+"explicacion": "Atribuye la acción de 'dormir' a la tarde, una cualidad humana aplicada a un concepto abstracto.",
+"pista": "La tarde actúa como una persona.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el siguiente texto dramático: \nJUAN: (Gritando) ¡No puedo más con esta soledad! \nMARÍA: (Desde afuera) La puerta está abierta, siempre lo estuvo. \n¿Qué función cumplen los elementos entre paréntesis?",
+"opciones": [
+"Son diálogos secundarios.",
+"Son acotaciones para orientar la actuación.",
+"Son pensamientos que nadie escucha.",
+"Son rimas para el poema."
+],
+"respuestaCorrecta": 1,
+"explicacion": "En el género dramático, los paréntesis indican acciones o tonos de voz (acotaciones).",
+"pista": "Instrucciones para el actor.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «Érase un hombre a una nariz pegado, érase una nariz superlativa». ¿Qué figura literaria destaca por la exageración?",
+"opciones": [
+"Metáfora",
+"Hipérbole",
+"Epíteto",
+"Hipérbaton"
+],
+"respuestaCorrecta": 1,
+"explicacion": "La descripción de una nariz 'superlativa' a la que el hombre está pegado es una exageración extrema.",
+"pista": "Busque el aumento desmedido de la realidad.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El mar es un cristal azul que refleja el cielo». ¿Qué figura literaria identifica directamente al mar con un cristal?",
+"opciones": [
+"Símil",
+"Metáfora",
+"Prosopopeya",
+"Reiteración"
+],
+"respuestaCorrecta": 1,
+"explicacion": "Es una metáfora porque establece una identidad entre dos términos sin nexos comparativos.",
+"pista": "Es una afirmación directa: A es B.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el siguiente fragmento: «Caminaba por la ciudad vacía. El silencio era ensordecedor. Las luces de los semáforos cambiaban para nadie, en un ritmo inútil y eterno». El narrador utiliza una contradicción ('silencio ensordecedor') para enfatizar la soledad. ¿Cómo se llama esa figura?",
+"opciones": [
+"Paradoja",
+"Símil",
+"Anáfora",
+"Onomatopeya"
+],
+"respuestaCorrecta": 0,
+"explicacion": "La paradoja o el oxímoron presentan ideas contradictorias que generan un nuevo sentido.",
+"pista": "Unión de dos ideas opuestas.",
+"imagen": null,
+"grafico": null
+}
+],
+"Gramática y Normativa": [
+{
+"pregunta": "Identifique la oración que presenta un error de concordancia:",
+"opciones": [
+"El grupo de jóvenes cantaron en el festival.",
+"La gente camina despacio por el parque.",
+"Había muchas personas en la fila.",
+"La mayoría de los niños aprobó el examen."
+],
+"respuestaCorrecta": 0,
+"explicacion": "El núcleo del sujeto es 'el grupo' (singular), por lo que el verbo debe ser 'cantó'.",
+"pista": "El sujeto es colectivo en singular.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "¿En cuál opción se utiliza correctamente la tilde diacrítica?",
+"opciones": [
+"El libro es para el.",
+"Díme qué quieres de comer.",
+"Sé que vendrás pronto.",
+"Tu tienes la razón siempre."
+],
+"respuestaCorrecta": 2,
+"explicacion": "'Sé' lleva tilde cuando es forma del verbo saber o ser.",
+"pista": "Verbo saber.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Seleccione la palabra que está escrita correctamente:",
+"opciones": [
+"Exhuberante",
+"Vagabundo",
+"Hervir",
+"Inovación"
+],
+"respuestaCorrecta": 2,
+"explicacion": "El verbo 'hervir' es una de las excepciones a la regla de los verbos terminados en -bir.",
+"pista": "Es una excepción a la regla de la B.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea la oración: «No vino a la fiesta ______ estaba trabajando». El espacio se completa con:",
+"opciones": [
+"por que",
+"porqué",
+"porque",
+"por qué"
+],
+"respuestaCorrecta": 2,
+"explicacion": "'Porque' (pegado y sin tilde) es una conjunción causal para explicar razones.",
+"pista": "Equivale a 'ya que'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Identifique la opción que contiene una palabra esdrújula:",
+"opciones": [
+"Canción",
+"Pájaro",
+"Reloj",
+"Césped"
+],
+"respuestaCorrecta": 1,
+"explicacion": "Pájaro lleva el acento en la antepenúltima sílaba.",
+"pista": "Llevan tilde siempre.",
+"imagen": null,
+"grafico": null
+}
+],
+"Comprensión de lectura (Bloque 2)": [
+{
+"pregunta": "Lea: «El volcán Poás es uno de los destinos más visitados de Costa Rica. Su cráter principal, con una laguna de aguas ácidas y fumarolas activas, ofrece un espectáculo natural único. Sin embargo, su actividad constante obliga a cierres preventivos para garantizar la seguridad de los turistas». Según el texto, los cierres se deben a",
+"opciones": [
+"La falta de mantenimiento de los senderos.",
+"La actividad volcánica constante.",
+"El exceso de turistas en el área.",
+"La limpieza de la laguna ácida."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto indica claramente que la actividad constante obliga a los cierres preventivos.",
+"pista": "Busque la razón de la 'seguridad'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «La educación técnica en Costa Rica ha evolucionado para responder a las demandas del sector tecnológico. Carreras en ciberseguridad, análisis de datos y programación son hoy fundamentales para la empleabilidad juvenil». Se deduce que la educación técnica",
+"opciones": [
+"Es irrelevante para los jóvenes.",
+"Se ha adaptado a las necesidades del mercado laboral actual.",
+"Solo ofrece carreras tradicionales como agricultura.",
+"Ha disminuido su calidad en los últimos años."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El término 'evolucionado para responder a las demandas' implica adaptación al mercado.",
+"pista": "Relacione educación y demanda tecnológica.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el fragmento: «La identidad nacional no es algo estático que se encuentra en un museo; es un proceso vivo que se construye día a día en la cocina, en la música urbana, en el lenguaje de los jóvenes y en la forma en que recibimos al extranjero». El autor define la identidad como algo",
+"opciones": [
+"Invariable y antiguo.",
+"Dinámico y cotidiano.",
+"Exclusivo de los libros de historia.",
+"Relacionado únicamente con el folclore rural."
+],
+"respuestaCorrecta": 1,
+"explicacion": "Al decir que es un 'proceso vivo' que se construye 'día a día', se refiere a algo dinámico y cotidiano.",
+"pista": "Contrapone 'museo' con 'proceso vivo'.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El teletrabajo ha transformado la dinámica familiar, permitiendo mayor flexibilidad pero también borrando los límites entre la vida privada y la profesional. El derecho a la desconexión es hoy una lucha laboral necesaria». ¿Cuál es un problema mencionado sobre el teletrabajo?",
+"opciones": [
+"La falta de flexibilidad horaria.",
+"La desaparición de los límites entre trabajo y hogar.",
+"El aumento de los salarios.",
+"La obligación de vivir cerca de la oficina."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto menciona explícitamente que se borran los límites entre la vida privada y la profesional.",
+"pista": "Busque la consecuencia negativa.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «La movilidad eléctrica es una pieza clave en el plan de descarbonización de Costa Rica. Sustituir la flota de hidrocarburos por vehículos eléctricos reducirá significativamente la emisión de gases de efecto invernadero en el sector transporte». El propósito del texto es",
+"opciones": [
+"Vender vehículos eléctricos de una marca específica.",
+"Informar sobre la importancia de la movilidad eléctrica para el ambiente.",
+"Criticar el uso de bicicletas en la ciudad.",
+"Promover la construcción de más carreteras."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto explica el beneficio ambiental de los vehículos eléctricos en la descarbonización.",
+"pista": "Analice el impacto en los gases de invernadero.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el fragmento: «En la novela costarricense contemporánea, la ciudad de San José ya no es el espacio de paso, sino un personaje complejo, ruidoso y lleno de contrastes sociales. Los callejones y edificios antiguos narran historias de soledad y resistencia». El narrador describe a San José mediante",
+"opciones": [
+"Símiles con la naturaleza.",
+"Personificación de la ciudad.",
+"Hipérboles sobre la riqueza económica.",
+"Anáforas sobre el campo."
+],
+"respuestaCorrecta": 1,
+"explicacion": "Al decir que la ciudad es un 'personaje' que 'narra historias', se le están atribuyendo cualidades humanas.",
+"pista": "La ciudad actúa como un ser vivo.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El acceso al agua potable es un derecho humano fundamental. Sin embargo, en muchas comunidades costeras, la salinización de los pozos por la sobreexplotación turística pone en riesgo este derecho». Una causa de la salinización es",
+"opciones": [
+"El exceso de lluvias en la costa.",
+"La sobreexplotación turística de los pozos.",
+"La falta de sol en las playas.",
+"La protección de los manglares."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto señala la sobreexplotación turística como la causa de la salinización.",
+"pista": "Identifique el agente que afecta los pozos.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El ahorro es un hábito que debe fomentarse desde la infancia. Aprender a diferenciar entre deseos y necesidades permite una gestión financiera saludable en la edad adulta». Del texto se desprende que",
+"opciones": [
+"Los niños no deben tener dinero.",
+"Diferenciar deseos de necesidades ayuda a la salud financiera.",
+"Solo los adultos deben ahorrar.",
+"Ahorrar es imposible en la economía actual."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto afirma que esa diferenciación permite una gestión saludable.",
+"pista": "Analice la relación entre diferenciar y gestionar.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «La medicina tradicional de los pueblos indígenas de Costa Rica es un patrimonio cultural incalculable. El conocimiento de las plantas medicinales ha sido transmitido oralmente por generaciones, enfrentando hoy el reto de la propiedad intelectual y la biopiratería». Un desafío mencionado es",
+"opciones": [
+"La falta de plantas en la selva.",
+"La biopiratería y el respeto a la propiedad intelectual.",
+"La escritura de libros indígenas.",
+"La prohibición del uso de medicina natural."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto menciona la biopiratería y la propiedad intelectual como retos actuales.",
+"pista": "Vea la última frase del fragmento.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el fragmento: «La música calipso, declarada patrimonio cultural inmaterial de Costa Rica, es la voz de Limón. Sus ritmos narran la historia de la migración caribeña y la construcción del ferrocarril». El calipso se describe como",
+"opciones": [
+"Un ruido molesto para los turistas.",
+"Una herramienta para narrar la historia afrodescendiente.",
+"Un género musical extranjero sin importancia.",
+"Una música exclusiva de las iglesias."
+],
+"respuestaCorrecta": 1,
+"explicacion": "Se indica que sus ritmos 'narran la historia de la migración' y otros eventos históricos.",
+"pista": "Relacione música con narración histórica.",
+"imagen": null,
+"grafico": null
+}
+],
+"Comprensión de lectura (Bloque 3)": [
+{
+"pregunta": "Lea: «La desertificación en el corredor seco centroamericano afecta directamente la seguridad alimentaria. Las familias campesinas pierden sus cosechas de granos básicos debido a la irregularidad de las lluvias, lo que provoca migraciones hacia las ciudades». El texto establece una relación de",
+"opciones": [
+"Comparación entre el campo y la ciudad.",
+"Causa y efecto entre clima y migración.",
+"Definición de granos básicos.",
+"Oposición entre familias y campesinos."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto explica cómo la desertificación causa pérdida de cosechas y esto a su vez provoca migración.",
+"pista": "Busque cómo un evento lleva al otro.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El voluntariado ambiental en los parques nacionales permite a los jóvenes conectar con la naturaleza y desarrollar habilidades de liderazgo. No es solo trabajo gratuito, es una inversión en conciencia ciudadana». Según el autor, el voluntariado es",
+"opciones": [
+"Una pérdida de tiempo.",
+"Una forma de obtener dinero fácil.",
+"Una inversión en la formación de la conciencia ciudadana.",
+"Exclusivo para expertos en biología."
+],
+"respuestaCorrecta": 2,
+"explicacion": "El texto define al voluntariado como una 'inversión en conciencia ciudadana'.",
+"pista": "Vea la frase final del texto.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «La ciberseguridad personal empieza por la creación de contraseñas robustas y la desconfianza ante correos electrónicos de origen desconocido. En un mundo hiperconectado, la información personal es el activo más valioso y vulnerable». Se infiere que",
+"opciones": [
+"El internet es totalmente seguro.",
+"La responsabilidad de la seguridad recae en parte en el usuario.",
+"Las contraseñas no son necesarias.",
+"Los correos desconocidos siempre son seguros."
+],
+"respuestaCorrecta": 1,
+"explicacion": "Al decir que la seguridad 'empieza por' acciones del usuario, implica su responsabilidad.",
+"pista": "Analice las acciones sugeridas al inicio.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «La red ferroviaria en Costa Rica, aunque limitada, representa una alternativa sostenible para el transporte de carga y pasajeros. Su reactivación integral reduciría el congestionamiento vial y la huella de carbono del país». Una ventaja de reactivar el tren sería",
+"opciones": [
+"Aumentar el número de carros en las calles.",
+"Reducir el congestionamiento y la contaminación.",
+"Subir el precio de la gasolina.",
+"Eliminar el transporte por autobús."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto menciona la reducción del congestionamiento y la huella de carbono.",
+"pista": "Busque los beneficios mencionados al final.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea el fragmento: «El teatro callejero rompe la cuarta pared y saca el arte de las salas cerradas hacia las plazas públicas. Al hacer al espectador parte de la obra, democratiza el acceso a la cultura y genera un diálogo directo con la comunidad». Democratizar la cultura significa",
+"opciones": [
+"Cobrar precios muy altos.",
+"Hacer el arte accesible para todas las personas.",
+"Prohibir el teatro en las salas cerradas.",
+"Elegir a los actores mediante votación."
+],
+"respuestaCorrecta": 1,
+"explicacion": "Sacar el arte a plazas públicas y hacerlo parte del espectador implica hacerlo accesible.",
+"pista": "Relacione plazas públicas con acceso.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El consumo responsable implica cuestionar el origen de los productos y el impacto ambiental de su empaque. Preferir productos locales y de temporada reduce la huella ecológica del consumidor». El texto recomienda",
+"opciones": [
+"Comprar solo productos importados.",
+"Ignorar el empaque de las cosas.",
+"Preferir el consumo local para ayudar al ambiente.",
+"Consumir productos fuera de temporada."
+],
+"respuestaCorrecta": 2,
+"explicacion": "Indica que preferir productos locales reduce la huella ecológica.",
+"pista": "Vea la recomendación para reducir la huella.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «La luz del sol es la fuente de energía más abundante, pero su aprovechamiento requiere de tecnología solar eficiente. La transición energética hacia fuentes limpias es vital para cumplir con los acuerdos internacionales de clima». El término 'fuentes limpias' se refiere a",
+"opciones": [
+"Energías que no contaminan, como la solar.",
+"Agua con jabón para limpiar paneles.",
+"Energía derivada del petróleo refinado.",
+"Electricidad muy barata."
+],
+"respuestaCorrecta": 0,
+"explicacion": "En el contexto ambiental, fuentes limpias son las renovables y no contaminantes.",
+"pista": "Relacione con la energía solar y el clima.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El sedentarismo es uno de los principales factores de riesgo para las enfermedades crónicas. Incorporar al menos treinta minutos de actividad física diaria mejora la salud cardiovascular y el bienestar mental». El fragmento tiene una función",
+"opciones": [
+"Poética",
+"Apelativa e informativa",
+"Narrativa",
+"Ficticia"
+],
+"respuestaCorrecta": 1,
+"explicacion": "Informa sobre un riesgo de salud y apela (aconseja) a realizar actividad física.",
+"pista": "Busque el consejo de salud.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «El patrimonio arquitectónico de San José, como el Teatro Nacional, es testimonio de la bonanza cafetalera del siglo XIX. Conservar estos edificios es preservar la memoria histórica de la nación frente a la modernidad acelerada». Conservar estos edificios es importante para",
+"opciones": [
+"Poder venderlos a empresas extranjeras.",
+"Mantener viva la memoria histórica.",
+"Hacer espacio para nuevos rascacielos.",
+"Aumentar el precio del café."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto vincula la conservación con la preservación de la memoria histórica.",
+"pista": "Vea la relación entre edificios y memoria.",
+"imagen": null,
+"grafico": null
+},
+{
+"pregunta": "Lea: «La biodiversidad marina en el Domo Térmico de Costa Rica es un santuario para especies migratorias como ballenas y tiburones. Su protección internacional es necesaria para evitar la pesca de arrastre que destruye el fondo oceánico». El Domo Térmico es importante porque",
+"opciones": [
+"Es un lugar para pescar con redes grandes.",
+"Es un refugio para especies en migración.",
+"Es una zona de extracción de petróleo.",
+"Es una playa para el turismo masivo."
+],
+"respuestaCorrecta": 1,
+"explicacion": "El texto lo define como un 'santuario para especies migratorias'.",
+"pista": "Busque la definición de 'santuario'.",
+"imagen": null,
+"grafico": null
+}
+],
+"Literatura de la Prueba 2 (Convocatoria 01-2026)": [
+    {
+      "pregunta": "En la obra 'Las flores del mal' de Baudelaire, el concepto de 'Spleen' se refiere primordialmente a:",
+      "opciones": ["La alegría desbordante de la primavera.", "Un estado de tedio, melancolía y hastío existencial.", "El amor romántico e idealizado.", "La celebración de la naturaleza virgen."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El 'Spleen' es un eje central en Baudelaire que representa el aburrimiento profundo y la angustia de la vida moderna.",
+      "pista": "Es una sensación de vacío y melancolía.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique una característica del Realismo Mágico presente en 'Cien años de soledad':",
+      "opciones": ["Uso de lenguaje puramente científico.", "Lo fantástico se presenta como algo cotidiano y natural.", "Narración exclusiva de hechos históricos reales.", "Ausencia total de elementos imaginarios."],
+      "respuestaCorrecta": 1,
+      "explicacion": "En Macondo, hechos insólitos (como la ascensión de Remedios la bella) son aceptados por los personajes sin sorpresa.",
+      "pista": "Busque la mezcla de lo irreal con lo normal.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En 'El Señor Presidente' de Miguel Ángel Asturias, el ambiente predominante es de:",
+      "opciones": ["Libertad de expresión y democracia.", "Paz, armonía y confianza ciudadana.", "Miedo, opresión y paranoia bajo una dictadura.", "Desarrollo tecnológico y progreso social."],
+      "respuestaCorrecta": 2,
+      "explicacion": "La novela retrata la degradación social y psicológica causada por un régimen dictatorial.",
+      "pista": "Refleja el terror de vivir bajo un tirano.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "El tema central del relato 'El Aleph' de Jorge Luis Borges es:",
+      "opciones": ["La descripción de una receta de cocina.", "Un punto en el espacio que contiene todos los puntos del universo.", "La historia de un viaje en barco hacia América.", "Un manual de instrucciones para armar un reloj."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Aleph es un objeto místico que permite ver la totalidad del universo simultáneamente.",
+      "pista": "Tiene que ver con el infinito contenido en un solo lugar.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En 'Prohibido suicidarse en primavera', ¿cuál es el propósito original de la 'Casa del Suicida'?",
+      "opciones": ["Facilitar métodos para que la gente muera.", "Ser un hospital para enfermos físicos.", "Curar a los desesperados mediante la belleza y la naturaleza.", "Un hotel de lujo para turistas."],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Dr. Ariel crea la casa para que, ante la facilidad de morir, los pacientes recuperen el deseo de vivir.",
+      "pista": "Es un tratamiento psicológico inverso.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Según el ensayo 'Invitación al diálogo de las generaciones' de Roberto Azofeifa, el conflicto surge por:",
+      "opciones": ["La falta de tecnología en el campo.", "La ruptura de la comunicación entre jóvenes y adultos.", "El exceso de dinero en la población.", "La invención de nuevos idiomas."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Azofeifa plantea que la falta de entendimiento entre edades debilita la cultura nacional.",
+      "pista": "Tiene que ver con el intercambio de ideas entre edades.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "El ensayo '500 años después' de Caamaño reflexiona principalmente sobre:",
+      "opciones": ["La llegada de la primera computadora a Costa Rica.", "El impacto de la conquista y la identidad latinoamericana.", "Cómo sembrar café en tierras altas.", "La historia de la aviación comercial."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El texto analiza la herencia colonial y la situación de los pueblos marginados tras medio milenio.",
+      "pista": "Se relaciona con el descubrimiento y colonización de América.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En 'Robinson Crusoe', ¿qué representa la isla para el protagonista?",
+      "opciones": ["Un paraíso de vacaciones.", "Un espacio de supervivencia, soledad y autorreflexión.", "Una ciudad moderna llena de gente.", "Un mercado para vender sus productos."],
+      "respuestaCorrecta": 1,
+      "explicacion": "La isla es el escenario donde Crusoe reconstruye su civilización y su fe.",
+      "pista": "Es un lugar de aislamiento forzado.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "El movimiento literario Modernista, presente en 'Azul' de Rubén Darío, se caracteriza por:",
+      "opciones": ["El uso de lenguaje vulgar y cotidiano.", "La búsqueda de la belleza, el exotismo y el preciosismo.", "Relatar únicamente la vida de los campesinos.", "El rechazo absoluto a la musicalidad del verso."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El modernismo busca renovar el lenguaje con imágenes sensoriales y temas refinados.",
+      "pista": "Busque la elegancia y lo artístico.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En la narrativa vanguardista, el uso del 'monólogo interior' sirve para:",
+      "opciones": ["Dar órdenes al lector.", "Mostrar los pensamientos desordenados y fluidos del personaje.", "Describir el paisaje exterior detalladamente.", "Explicar las leyes físicas del universo."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El monólogo interior permite entrar en la mente del personaje sin filtros del narrador.",
+      "pista": "Es el flujo de conciencia.",
+      "imagen": null,
+      "grafico": null
+    }
+  ],
+  "Frases Hechas y Construcciones Fijas": [
+    {
+      "pregunta": "En la oración 'Tengo que estudiar, a lo sumo, tres horas', la expresión subrayada significa:",
+      "opciones": ["Como mínimo.", "Como máximo.", "Exactamente.", "A veces."],
+      "respuestaCorrecta": 1,
+      "explicacion": "'A lo sumo' indica un límite superior o cantidad máxima.",
+      "pista": "No pasará de esa cantidad.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "La locución 'al pie de la letra' indica que algo se hace:",
+      "opciones": ["Usando los pies.", "De manera aproximada.", "De forma exacta y rigurosa.", "Con muchos errores."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Seguir instrucciones 'al pie de la letra' es no cambiar ni un detalle.",
+      "pista": "Es seguir algo tal cual está escrito.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Si un negocio va 'en picada', significa que:",
+      "opciones": ["Está mejorando rápidamente.", "Se mantiene estable.", "Está decayendo o fracasando rápidamente.", "Está siendo atacado por pájaros."],
+      "respuestaCorrecta": 2,
+      "explicacion": "'En picada' describe un descenso vertical y veloz hacia el fracaso.",
+      "pista": "Imagine un avión cayendo.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "La expresión 'de cabo a rabo' es equivalente a:",
+      "opciones": ["Solamente el final.", "Del principio al fin.", "De manera desordenada.", "Solo las partes importantes."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Significa examinar o leer algo de forma completa, de extremo a extremo.",
+      "pista": "Del inicio hasta el cierre total.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Hacer algo 'sin ton ni son' significa que se hace:",
+      "opciones": ["Con mucha música.", "De manera lógica y planeada.", "Sin motivo, sentido o medida.", "Bajo estricta supervisión."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se aplica a acciones disparatadas o que carecen de justificación.",
+      "pista": "Algo que no tiene ni pies ni cabeza.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Trabajar 'de sol a sol' implica:",
+      "opciones": ["Trabajar solo al mediodía.", "Trabajar durante toda la jornada diurna.", "Ir a la playa a broncearse.", "Trabajar solo de noche."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es una expresión que denota una jornada laboral exhaustiva desde el amanecer al anochecer.",
+      "pista": "Todo el tiempo que hay luz natural.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Si algo se resuelve 'en un santiamén', ocurrió:",
+      "opciones": ["En una iglesia.", "En un instante o muy rápido.", "Después de mucho tiempo.", "Nunca ocurrió."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Hace referencia a la rapidez extrema de un suceso.",
+      "pista": "Lo que tarda un abrir y cerrar de ojos.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "La frase 'por doquier' significa:",
+      "opciones": ["Por ningún lado.", "Por todas partes.", "Solo en la esquina.", "A veces por ahí."],
+      "respuestaCorrecta": 1,
+      "explicacion": "'Doquier' es una forma de decir 'cualquier lugar'; por ende, es en todo sitio.",
+      "pista": "Sinónimo de 'en todos lados'.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "La expresión 'a cara o cruz' se utiliza cuando una decisión se deja:",
+      "opciones": ["A la lógica.", "Al azar.", "A los expertos.", "A la votación popular."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Viene del juego de lanzar una moneda; representa una probabilidad del 50%.",
+      "pista": "Depende de la suerte.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Hacer algo 'a lo grande' significa hacerlo:",
+      "opciones": ["Con mucha humildad.", "De forma mediocre.", "Con lujo, magnificencia o gran escala.", "Usando objetos gigantes."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Denota que no se han escatimado recursos para el evento o acción.",
+      "pista": "Es lo opuesto a hacerlo con sencillez.",
+      "imagen": null,
+      "grafico": null
+    }
+  ],
+  "Casos Especiales de Ortografía (Homófonos)": [
+    {
+      "pregunta": "Elija la opción correcta: 'Juan _____ de estar en el cine, porque no contesta el celular'.",
+      "opciones": ["debe", "debe de", "debía", "deba"],
+      "respuestaCorrecta": 1,
+      "explicacion": "'Debe de' se usa para indicar suposición o probabilidad.",
+      "pista": "Es una sospecha, no una obligación.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete la oración: 'Usted _____ cumplir con sus tareas a tiempo'.",
+      "opciones": ["debe", "debe de", "debiera de", "debió de"],
+      "respuestaCorrecta": 0,
+      "explicacion": "'Debe' seguido de infinitivo indica obligación o necesidad.",
+      "pista": "Es una orden o un deber moral.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique el uso correcto de 'aparte':",
+      "opciones": ["Ella vive aparte de sus padres.", "Fue a parte de la fiesta.", "Aparte de ese grupo, todos vinieron.", "La primera y la tercera son correctas."],
+      "respuestaCorrecta": 3,
+      "explicacion": "'Aparte' se escribe junto cuando significa 'en otro lugar' o 'excluyendo'.",
+      "pista": "Busque cuando significa separación o excepción.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: 'La beca solo benefició _____ de los estudiantes'.",
+      "opciones": ["aparte", "a parte", "á parte", "a-parte"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se escribe separado 'a parte' cuando se refiere a una porción o fracción de un todo.",
+      "pista": "Equivale a 'una porción'.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "¿Cuál es la forma correcta de acentuación?",
+      "opciones": ["Período", "Periodo", "Las dos son correctas.", "Ninguna lleva tilde."],
+      "respuestaCorrecta": 2,
+      "explicacion": "La RAE admite ambas formas, aunque 'periodo' (llana) es más frecuente en España y 'período' (esdrújula) en América.",
+      "pista": "Ambas pronunciaciones son válidas.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En la frase 'Me _____ dinero', la palabra correcta es:",
+      "opciones": ["debe", "debe de", "dé", "deber"],
+      "respuestaCorrecta": 0,
+      "explicacion": "Es el verbo deber indicando una deuda económica.",
+      "pista": "Acción de tener una deuda.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique el error: 'Puso el postre a parte'.",
+      "opciones": ["Debe decir 'aparte' (junto).", "Debe decir 'a-parte'.", "Le falta tilde a 'parte'.", "No hay error."],
+      "respuestaCorrecta": 0,
+      "explicacion": "Si significa colocar en otro lugar separado, debe ir junto: 'aparte'.",
+      "pista": "Indica lugar separado.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Elija la opción correcta: '_____ el próximo lunes se entregarán los resultados'.",
+      "opciones": ["A partir de", "Aparte de", "A parte de", "Apartir de"],
+      "respuestaCorrecta": 0,
+      "explicacion": "'A partir de' es la locución correcta para indicar inicio de tiempo.",
+      "pista": "Indica el punto de inicio.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "'Ese es un tema _____'.",
+      "opciones": ["a parte", "aparte", "a-parte", "áparte"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se usa 'aparte' como adjetivo que significa distinto o separado.",
+      "pista": "Significa 'diferente'.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "La expresión 'Debe de ser las diez' es correcta si:",
+      "opciones": ["Es una orden.", "Estamos adivinando la hora.", "Estamos seguros de la hora.", "Nunca es correcta."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Indica probabilidad o estimación de la hora.",
+      "pista": "No tenemos un reloj a mano.",
+      "imagen": null,
+      "grafico": null
+    }
+  ],
+  "Tildes Diacríticas": [
+    {
+      "pregunta": "Identifique la oración correcta:",
+      "opciones": ["El libro es para el.", "Él libro es para él.", "El libro es para él.", "Él libro es para el."],
+      "respuestaCorrecta": 2,
+      "explicacion": "'El' es artículo (sin tilde) y 'él' es pronombre (con tilde).",
+      "pista": "Pronombre lleva, artículo no.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Uso de 'mí/mi':",
+      "opciones": ["Mi mamá compró un regalo para mí.", "Mí mamá compró un regalo para mí.", "Mi mamá compró un regalo para mi.", "Mí mamá compró un regalo para mi."],
+      "respuestaCorrecta": 0,
+      "explicacion": "'Mi' (determinante) no lleva tilde; 'mí' (pronombre tras preposición) sí.",
+      "pista": "Posesivo vs Persona.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Uso de 'tú/tu':",
+      "opciones": ["Tú tienes tu cuaderno.", "Tu tienes tú cuaderno.", "Tú tienes tú cuaderno.", "Tu tienes tu cuaderno."],
+      "respuestaCorrecta": 0,
+      "explicacion": "'Tú' es la persona; 'tu' indica pertenencia.",
+      "pista": "Persona lleva tilde.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Uso de 'sí/si':",
+      "opciones": ["Si me dices que sí, iré.", "Sí me dices que si, iré.", "Si me dices que si, iré.", "Sí me dices que sí, iré."],
+      "respuestaCorrecta": 0,
+      "explicacion": "'Si' condicional no lleva; 'sí' de afirmación sí lleva.",
+      "pista": "Afirmación siempre lleva.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Elija la correcta: '_____ bien que no vendrás'.",
+      "opciones": ["Se", "Sé", "Sê", "Ses"],
+      "respuestaCorrecta": 1,
+      "explicacion": "'Sé' de los verbos saber y ser lleva tilde.",
+      "pista": "Verbo saber.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: '¿Quieres un poco de _____?'.",
+      "opciones": ["te", "té", "tè", "të"],
+      "respuestaCorrecta": 1,
+      "explicacion": "El sustantivo (infusión) siempre lleva tilde para diferenciarlo del pronombre 'te'.",
+      "pista": "Es una bebida.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Uso de 'más/mas':",
+      "opciones": ["Quiero más, mas no puedo.", "Quiero mas, mas no puedo.", "Quiero más, más no puedo.", "Quiero mas, más no puedo."],
+      "respuestaCorrecta": 0,
+      "explicacion": "'Más' de cantidad lleva tilde; 'mas' (pero) no lleva.",
+      "pista": "Cantidad vs Contradicción.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: 'Espero que nos _____ suerte'.",
+      "opciones": ["de", "dé", "des", "den"],
+      "respuestaCorrecta": 1,
+      "explicacion": "'Dé' del verbo dar lleva tilde.",
+      "pista": "Del verbo dar.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En la frase 'Se lo llevaron', la palabra 'Se' no lleva tilde porque:",
+      "opciones": ["Es una falta de ortografía.", "Es un pronombre personal átono.", "Es un verbo.", "Es una excepción."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El pronombre 'se' nunca lleva tilde; solo la lleva el verbo saber o ser.",
+      "pista": "No es ni saber ni ser.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: 'Este lápiz es para _____, pero no se lo digas'.",
+      "opciones": ["el", "él", "ella", "ellos"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se refiere a una persona, por lo que actúa como pronombre tónico.",
+      "pista": "Sustituye al nombre de un hombre.",
+      "imagen": null,
+      "grafico": null
+    }
+  ],
+  "Interrogativos y Exclamativos": [
+    {
+      "pregunta": "Complete: '¿_____ es tu mejor amigo?'.",
+      "opciones": ["Quien", "Quién", "Cuien", "Cuién"],
+      "respuestaCorrecta": 1,
+      "explicacion": "En preguntas directas, 'quién' siempre lleva tilde.",
+      "pista": "Interrogación directa.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique la tilde correcta: 'No sé _____ hacerlo'.",
+      "opciones": ["como", "cómo", "còmo", "comó"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es una interrogativa indirecta que indica modo.",
+      "pista": "Pregunta de manera oculta.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: '¡_____ calor hace hoy!'.",
+      "opciones": ["Que", "Qué", "Què", "Qúe"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los exclamativos siempre llevan tilde.",
+      "pista": "Indica énfasis o emoción.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: 'Dime _____ vendrás'.",
+      "opciones": ["cuando", "cuándo", "cuàndo", "cuandó"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Indica una duda sobre el tiempo en una interrogativa indirecta.",
+      "pista": "Pregunta por el tiempo.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique la opción correcta: 'El pueblo _____ nací es pequeño'.",
+      "opciones": ["donde", "dónde", "adonde", "adónde"],
+      "respuestaCorrecta": 0,
+      "explicacion": "Es un relativo; no tiene función interrogativa ni exclamativa.",
+      "pista": "No está preguntando, está informando.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: '¿_____ cuesta esa camisa?'.",
+      "opciones": ["Cuanto", "Cuánto", "Cuántó", "Cuantó"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Interrogativo de cantidad.",
+      "pista": "Pregunta por precio o número.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: 'No imaginas _____ te extraño'.",
+      "opciones": ["cuanto", "cuánto", "cuànto", "cuantó"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Funciona como exclamativo indirecto de intensidad.",
+      "pista": "Equivale a 'qué tanto'.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: '¿_____ vas con tanta prisa?'.",
+      "opciones": ["Adonde", "Adónde", "A donde", "A dónde"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Interrogativo de lugar que implica movimiento.",
+      "pista": "Pregunta por el destino.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique el error: '¿Por que no viniste?'.",
+      "opciones": ["Debe ser 'Porque'.", "Debe ser 'Por qué' (separado y tildado).", "Falta tilde en 'viniste'.", "No hay error."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Para preguntar motivos se usa siempre separado y con tilde.",
+      "pista": "Pregunta de causa.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "'_____ quiera que estés, te buscaré'.",
+      "opciones": ["Donde", "Dónde", "Don-de", "Dondé"],
+      "respuestaCorrecta": 0,
+      "explicacion": "En la expresión 'dondequiera', funciona como relativo indefinido.",
+      "pista": "No es una pregunta.",
+      "imagen": null,
+      "grafico": null
+    }
+  ],
+  "Comprensión Lectora (Niveles)": [
+    {
+      "pregunta": "Lea: 'El 70% de la superficie terrestre está cubierta por agua'. Según el texto, ¿qué porcentaje de la Tierra es agua?",
+      "opciones": ["30%", "50%", "70%", "100%"],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es una pregunta de nivel explícito, la respuesta está literal.",
+      "pista": "Busque el número en el texto.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Lea: 'Juan llegó a casa con el paraguas goteando y los zapatos llenos de barro'. Se deduce que:",
+      "opciones": ["Hacía mucho sol.", "Juan estaba en el desierto.", "Estaba lloviendo.", "Juan vive en una casa limpia."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es nivel implícito; el texto no dice 'llueve', pero las pistas lo sugieren.",
+      "pista": "Piense por qué alguien tendría el paraguas mojado.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En un texto sobre reciclaje, si el autor usa palabras como 'urgente' y 'necesario', su intención es:",
+      "opciones": ["Contar un cuento.", "Persuadir al lector para que actúe.", "Hacer un chiste.", "Informar sobre el precio del plástico."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tono del lenguaje revela la intención comunicativa (nivel crítico).",
+      "pista": "Busque el propósito del autor.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Lea: 'La deforestación en la Amazonía aumentó un 10% el año pasado'. ¿Cuál es la idea principal?",
+      "opciones": ["La Amazonía es bonita.", "El aumento de la tala de árboles en una zona específica.", "El clima está cambiando.", "Hay muchos animales en la selva."],
+      "respuestaCorrecta": 1,
+      "explicacion": "La idea principal resume el dato central del enunciado.",
+      "pista": "Es el núcleo del mensaje.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Si un texto dice 'El gigante de la tecnología lanzó un nuevo teléfono', ¿a qué se refiere con 'gigante'?",
+      "opciones": ["A una persona muy alta.", "A una empresa muy grande e importante.", "A un monstruo de leyenda.", "A una montaña."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Uso del significado por cotexto (nivel implícito).",
+      "pista": "Se asocia con el mundo de los negocios.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Lea: 'A pesar de sus esfuerzos, el equipo perdió'. ¿Qué sentimiento predomina?",
+      "opciones": ["Frustración.", "Alegría.", "Miedo.", "Indiferencia."],
+      "respuestaCorrecta": 0,
+      "explicacion": "Se infiere por la oposición 'esfuerzo/pérdida'.",
+      "pista": "Analice la decepción del resultado.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Un texto que enumera los pasos para inscribirse en un examen es:",
+      "opciones": ["Narrativo.", "Argumentativo.", "Expositivo-Instructivo.", "Literario."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Su función es guiar al receptor de forma objetiva.",
+      "pista": "Da instrucciones.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Lea: 'El sol es la estrella más cercana a nosotros'. El nivel de información es:",
+      "opciones": ["Subjetivo.", "Objetivo.", "Ficticio.", "Poético."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Presenta un hecho astronómico comprobable.",
+      "pista": "Es una verdad científica.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Si en una noticia se lee 'El gobierno dio luz verde al proyecto', significa que:",
+      "opciones": ["Pintaron el proyecto de verde.", "Encendieron un semáforo.", "Autorizaron el inicio del proyecto.", "El proyecto es ecológico."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es una metáfora de uso común que significa permiso.",
+      "pista": "Tiene que ver con la aprobación.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "La diferencia entre un dato y una opinión en un texto es que:",
+      "opciones": ["El dato es subjetivo.", "La opinión es comprobable por todos.", "El dato es un hecho real y la opinión es un juicio personal.", "No hay diferencia."],
+      "respuestaCorrecta": 2,
+      "explicacion": "El análisis crítico requiere separar hechos de valoraciones.",
+      "pista": "Uno es verdad para todos, el otro es de alguien.",
+      "imagen": null,
+      "grafico": null
+    }
+  ],
+  "Puntuación (Ortografía Puntual)": [
+    {
+      "pregunta": "Identifique la oración que utiliza correctamente la coma vocativa:",
+      "opciones": ["Juan, traiga el libro por favor.", "Juan traiga el, libro por favor.", "Juan traiga el libro, por favor.", "Juan traiga, el libro por favor."],
+      "respuestaCorrecta": 0,
+      "explicacion": "La coma vocativa se usa para separar el nombre de la persona a la que nos dirigimos del resto de la oración.",
+      "pista": "La coma debe ir después del nombre de quien recibe la orden.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "¿Qué signo de puntuación debe usarse antes de una cita textual?",
+      "opciones": ["Punto y coma.", "Coma.", "Dos puntos.", "Puntos suspensivos."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se utilizan los dos puntos para introducir palabras textuales de otra persona.",
+      "pista": "Se usa para anunciar lo que alguien dijo.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En la frase 'Ella estudia medicina; él, ingeniería', la coma cumple la función de:",
+      "opciones": ["Coma elíptica (sustituye al verbo estudiar).", "Coma vocativa.", "Coma de enumeración.", "Coma incidental."],
+      "respuestaCorrecta": 0,
+      "explicacion": "La coma elíptica se utiliza para evitar repetir un verbo que ya se mencionó.",
+      "pista": "Sustituye a una palabra que ya se entiende por el contexto.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Elija la oración con puntuación correcta:",
+      "opciones": ["Compré: pan, leche, huevos y café.", "Compré pan, leche, huevos y café.", "Compré pan leche huevos y café.", "Compré pan, leche, huevos, y café."],
+      "respuestaCorrecta": 1,
+      "explicacion": "En una enumeración simple, se usan comas y la conjunción 'y' al final sin coma previa.",
+      "pista": "Es una lista básica de elementos.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "¿Cuándo se utiliza el punto y coma?",
+      "opciones": ["Para terminar un párrafo.", "Para separar oraciones independientes que tienen una relación estrecha y ya incluyen comas.", "Para indicar una pregunta.", "Para separar un sujeto de su predicado."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El punto y coma indica una pausa mayor que la coma pero menor que el punto.",
+      "pista": "Se usa en oraciones largas y complejas.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique el uso correcto de los paréntesis:",
+      "opciones": ["La FIFA (Federación Internacional de Fútbol Asociado) tiene su sede en Suiza.", "La FIFA, Federación Internacional de Fútbol Asociado tiene su sede en Suiza.", "La (FIFA) Federación Internacional de Fútbol Asociado tiene su sede en Suiza.", "La FIFA Federación Internacional de Fútbol Asociado (tiene su sede en Suiza)."],
+      "respuestaCorrecta": 0,
+      "explicacion": "Los paréntesis se usan para introducir aclaraciones o datos como siglas y fechas.",
+      "pista": "Encierran información complementaria.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Uso de comillas: ¿Cuál oración es correcta para destacar un sentido irónico?",
+      "opciones": ["El 'genio' volvió a perder las llaves.", "El genio volvió a perder las llaves.", "El, genio, volvió a perder las llaves.", "El genio volvió a 'perder' las llaves."],
+      "respuestaCorrecta": 0,
+      "explicacion": "Las comillas pueden usarse para indicar que una palabra se utiliza con sentido irónico o sarcástico.",
+      "pista": "Resaltan que la palabra no debe tomarse literal.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique la oración con la coma incidental (aclaratoria) bien puesta:",
+      "opciones": ["Mi hermano el menor, siempre llega tarde.", "Mi hermano, el menor siempre llega tarde.", "Mi hermano, el menor, siempre llega tarde.", "Mi, hermano el menor siempre llega tarde."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las aclaraciones o incisos deben ir encerrados entre dos comas.",
+      "pista": "Si quitas lo que está entre comas, la oración sigue teniendo sentido.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Después de un punto y seguido:",
+      "opciones": ["Se escribe con minúscula.", "Se escribe con mayúscula en la misma línea.", "Se cambia de párrafo.", "Se deja un espacio de tres renglones."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El punto y seguido separa enunciados dentro de un mismo párrafo; se continúa con mayúscula.",
+      "pista": "Es para seguir hablando del mismo tema.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "¿Qué signo indica que una enumeración está incompleta?",
+      "opciones": ["Dos puntos.", "Puntos suspensivos.", "Punto y coma.", "Comillas."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los puntos suspensivos equivalen a la palabra 'etcétera' en una lista.",
+      "pista": "Son tres puntos seguidos.",
+      "imagen": null,
+      "grafico": null
+    }
+  ],
+  "Morfosintaxis y Concordancia": [
+    {
+      "pregunta": "Identifique la oración con concordancia correcta:",
+      "opciones": ["La mayoría de los estudiantes aprobaron.", "La mayoría de los estudiantes aprobó.", "La mayoría de los estudiantes aprobaras.", "Ambas A y B son aceptadas por la RAE."],
+      "respuestaCorrecta": 3,
+      "explicacion": "Con sustantivos colectivos seguidos de un complemento en plural, se permite la concordancia tanto en singular como en plural.",
+      "pista": "Se llama concordancia ad sensum (por el sentido).",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Elija la opción gramaticalmente correcta:",
+      "opciones": ["De acuerdo a lo pactado.", "De acuerdo con lo pactado.", "En base a lo pactado.", "Bajo la base de lo pactado."],
+      "respuestaCorrecta": 1,
+      "explicacion": "La norma culta prefiere 'de acuerdo con'. 'De acuerdo a' se considera menos recomendable.",
+      "pista": "La preposición ideal es 'con'.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Uso de 'haber': ¿Cuál oración es correcta?",
+      "opciones": ["Habían muchas personas en la fiesta.", "Había muchas personas en la fiesta.", "Hubieron muchas personas en la fiesta.", "Habrán muchas personas en la fiesta."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cuando 'haber' indica existencia, es impersonal y solo se usa en singular.",
+      "pista": "Nunca digas 'habían' para decir que algo existe.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique el error de concordancia:",
+      "opciones": ["Camisa y pantalón negros.", "El grupo de niños juega.", "Gente buena y trabajadores.", "Agua fría."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debe ser 'Gente buena y trabajadora', ya que el adjetivo debe concordar con el núcleo 'gente' (femenino singular).",
+      "pista": "El adjetivo debe ser femenino.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete correctamente: 'Si yo _____ dinero, te lo prestaría'.",
+      "opciones": ["tendría", "tuviera", "tengo", "tuvieseis"],
+      "respuestaCorrecta": 1,
+      "explicacion": "En oraciones condicionales irreales, se usa el pretérito imperfecto de subjuntivo (tuviera/tuviese).",
+      "pista": "No es 'tendría', eso va después.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Uso de preposiciones: Identifique la correcta.",
+      "opciones": ["Pastillas para la tos.", "Pastillas contra la tos.", "Pastillas de la tos.", "Pastillas por la tos."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Aunque 'para la tos' es común, la lógica gramatical indica 'contra' porque combate la enfermedad.",
+      "pista": "Es para combatir el síntoma.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Seleccione la frase sin 'dequeísmo':",
+      "opciones": ["Pienso de que vendrá.", "Me dijo de que no sabía.", "Estoy seguro de que ganaremos.", "Creo de que es tarde."],
+      "respuestaCorrecta": 2,
+      "explicacion": "'Estar seguro de algo' es correcto; 'pensar de que' es un error.",
+      "pista": "Sustituye por 'esto': ¿Estoy seguro de esto? Sí.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Concordancia de género: ¿Cuál es correcta?",
+      "opciones": ["El hacha afilada.", "La hacha afilada.", "El hacha afilado.", "Un hacha afilado."],
+      "respuestaCorrecta": 0,
+      "explicacion": "Se usa 'el' para evitar cacofonía, pero la palabra sigue siendo femenina, por eso el adjetivo es 'afilada'.",
+      "pista": "El artículo cambia, pero el adjetivo no.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Complete: 'Hubo _____ errores en el examen'.",
+      "opciones": ["demasiados", "demasiado", "demasiada", "demasiadas"],
+      "respuestaCorrecta": 0,
+      "explicacion": "'Demasiados' funciona como adjetivo y concuerda con 'errores'.",
+      "pista": "Debe ser masculino plural.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique el tiempo verbal en 'Habré terminado mañana':",
+      "opciones": ["Pretérito perfecto.", "Futuro compuesto.", "Condicional simple.", "Presente de subjuntivo."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se forma con el futuro de 'haber' + participio.",
+      "pista": "Indica una acción futura terminada.",
+      "imagen": null,
+      "grafico": null
+    }
+  ],
+  "Acentuación General": [
+    {
+      "pregunta": "Las palabras agudas llevan tilde cuando:",
+      "opciones": ["Terminan en cualquier consonante.", "Terminan en N, S o vocal.", "Terminan en L o R.", "Siempre llevan tilde."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es la regla básica de las palabras cuya sílaba tónica es la última.",
+      "pista": "Piense en 'Canción' o 'Inés'.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique la palabra grave que debe llevar tilde:",
+      "opciones": ["Examen", "Cantar", "Arbol", "Corazon"],
+      "respuestaCorrecta": 2,
+      "explicacion": "Árbol lleva tilde porque es grave y termina en consonante que no es N ni S.",
+      "pista": "Su fuerza está en la penúltima sílaba.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "¿Cuál de estas palabras es esdrújula?",
+      "opciones": ["Ratón", "Teléfono", "Papel", "Lápiz"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Te-lé-fo-no tiene la sílaba tónica en la antepenúltima posición.",
+      "pista": "Todas las de este tipo se tildan siempre.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Un 'hiato acentual' ocurre cuando:",
+      "opciones": ["Se unen dos vocales fuertes.", "Se une una vocal fuerte y una débil tónica.", "Se unen dos vocales débiles.", "No hay vocales juntas."],
+      "respuestaCorrecta": 1,
+      "explicacion": "El hiato acentual obliga a tildar la vocal débil (i, u) para romper el diptongo.",
+      "pista": "Ejemplo: Ma-rí-a, Ba-úl.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique la palabra con hiato:",
+      "opciones": ["Cielo", "Auto", "Poeta", "Ciudad"],
+      "respuestaCorrecta": 2,
+      "explicacion": "Poe-ta tiene dos vocales fuertes seguidas (o, e), lo que forma un hiato simple.",
+      "pista": "Las vocales fuertes (a, e, o) nunca van en la misma sílaba.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "La palabra 'vídeo' (acentuación esdrújula) y 'video' (acentuación grave):",
+      "opciones": ["Una es incorrecta.", "Ambas son correctas según la región.", "Solo la tildada es válida.", "Solo la sin tilde es válida."],
+      "respuestaCorrecta": 1,
+      "explicacion": "La RAE acepta ambas acentuaciones.",
+      "pista": "Depende de si se pronuncia más en España o América.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique la palabra aguda sin tilde:",
+      "opciones": ["Café", "Pared", "Útil", "Música"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pa-red es aguda pero termina en D, por lo que no se tilda.",
+      "pista": "Suena fuerte al final pero no termina en N, S o vocal.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Elija la palabra correctamente tildada:",
+      "opciones": ["Heroe", "Héroe", "Heroé", "He-roe"],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es una palabra esdrújula (Hé-ro-e).",
+      "pista": "Tiene 3 sílabas y la fuerza está en la primera.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "¿Qué palabra tiene diptongo?",
+      "opciones": ["Río", "Caos", "Aire", "Leer"],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ai-re une una vocal fuerte y una débil en una sola sílaba.",
+      "pista": "Las vocales no se separan al pronunciarlas.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "La palabra 'fácilmente' lleva tilde porque:",
+      "opciones": ["Es esdrújula.", "Es sobresdrújula.", "Conserva la tilde del adjetivo original 'fácil'.", "Termina en mente."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los adverbios terminados en -mente mantienen la tilde si el adjetivo original la tenía.",
+      "pista": "Piense en la palabra base.",
+      "imagen": null,
+      "grafico": null
+    }
+  ],
+  "Denotación y Connotación": [
+    {
+      "pregunta": "El lenguaje denotativo se caracteriza por ser:",
+      "opciones": ["Subjetivo y emocional.", "Objetivo y literal.", "Poético y lleno de metáforas.", "Difícil de entender."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es el lenguaje que encontramos en diccionarios y textos científicos.",
+      "pista": "Dice las cosas tal como son.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En la frase 'Ese hombre tiene un corazón de oro', la palabra 'oro' se usa de forma:",
+      "opciones": ["Denotativa.", "Connotativa.", "Científica.", "Literal."],
+      "respuestaCorrecta": 1,
+      "explicacion": "No significa que el corazón sea de metal, sino que el hombre es muy bueno.",
+      "pista": "Es un significado figurado.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes oraciones es denotativa?",
+      "opciones": ["Me muero de hambre.", "El examen fue pan comido.", "Las estrellas brillan en el cielo nocturno.", "Ella es una luz en mi vida."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es un hecho real y directo sin interpretaciones extra.",
+      "pista": "Es una descripción física real.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Si digo 'Salió echando chispas de la reunión', quiero decir que:",
+      "opciones": ["Tenía un cortocircuito.", "Salió muy enojado.", "Llevaba fuegos artificiales.", "Estaba muy feliz."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es una expresión connotativa para describir el enfado.",
+      "pista": "Relacione el fuego con la ira.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Identifique el significado connotativo de 'Zorro' aplicado a una persona:",
+      "opciones": ["Animal mamífero de la familia de los cánidos.", "Persona astuta y cautelosa.", "Persona que vive en el bosque.", "Alguien que tiene mucho pelo."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se atribuyen cualidades del animal a la personalidad humana.",
+      "pista": "Se refiere a la inteligencia mañosa.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Un texto científico utiliza preferiblemente el lenguaje:",
+      "opciones": ["Connotativo.", "Denotativo.", "Coloquial.", "Irónico."],
+      "respuestaCorrecta": 1,
+      "explicacion": "La ciencia requiere precisión y evitar dobles sentidos.",
+      "pista": "Busca la claridad absoluta.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "En la frase 'El invierno de la vida', la palabra 'invierno' connota:",
+      "opciones": ["Estación del año donde hace frío.", "La vejez.", "La infancia.", "El éxito económico."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se asocia el final del año (invierno) con la etapa final de la vida.",
+      "pista": "Es la última etapa.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "¿Qué opción muestra un uso denotativo de la palabra 'llave'?",
+      "opciones": ["Él tiene la llave de mi corazón.", "La llave de la victoria fue la defensa.", "Perdí la llave de la puerta principal.", "Esa pregunta es la llave del éxito."],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se refiere al objeto físico de metal para abrir cerraduras.",
+      "pista": "Uso del objeto real.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "La literatura y la poesía utilizan mayoritariamente el lenguaje:",
+      "opciones": ["Denotativo.", "Connotativo.", "Informativo.", "Técnico."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Buscan evocar sentimientos y crear imágenes artísticas.",
+      "pista": "Usa metáforas y símbolos.",
+      "imagen": null,
+      "grafico": null
+    },
+    {
+      "pregunta": "Si un diccionario define 'Gato' como 'Animal doméstico de la familia de los felinos', está usando un lenguaje:",
+      "opciones": ["Connotativo.", "Denotativo.", "Figurado.", "Lírico."],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es la definición formal y objetiva.",
+      "pista": "Es el significado universal.",
+      "imagen": null,
+      "grafico": null
+    }
+  ]
 }
 }
